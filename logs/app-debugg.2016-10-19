@@ -1,0 +1,8 @@
+{"level":"error","message":"Not Found","timestamp":"2016-10-19T04:45:28.928Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com:3306","timestamp":"2016-10-19T04:45:28.970Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com:3306","timestamp":"2016-10-19T04:45:54.632Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com:3306","timestamp":"2016-10-19T04:45:54.637Z"}
+{"level":"error","message":"not logged in","timestamp":"2016-10-19T04:47:06.676Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com:3306","timestamp":"2016-10-19T04:47:47.058Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com:3306","timestamp":"2016-10-19T04:56:30.685Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com hellogentle.c2vweliyz0f2.ap-northeast-1.rds.amazonaws.com:3306","timestamp":"2016-10-19T04:56:51.365Z"}

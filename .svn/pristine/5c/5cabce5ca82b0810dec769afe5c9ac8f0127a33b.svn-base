@@ -1,0 +1,338 @@
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T01:32:41.948Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T01:32:41.958Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T01:34:53.886Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T01:34:53.889Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T01:34:53.889Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T01:32:41.959Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T01:34:53.889Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T01:34:53.889Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T01:34:53.889Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:35:02.617Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T01:35:03.135Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T01:35:03.135Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T01:35:03.135Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T01:34:53.889Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T01:35:03.135Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T01:35:03.135Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T01:35:03.135Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:39:35.564Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:40:12.062Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:49:46.772Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:51:02.600Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:51:03.704Z"}
+{"level":"debug","message":"imagepath: 0320cfb815a5ba59fa4df205889c7ec4.jpg","timestamp":"2014-11-12T01:51:03.717Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\profile\\0320cfb815a5ba59fa4df205889c7ec4.jpg","timestamp":"2014-11-12T01:51:03.717Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:51:42.362Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:51:42.866Z"}
+{"level":"debug","message":"imagepath: 53_SHOES.png","timestamp":"2014-11-12T01:51:42.866Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\products\\53_SHOES.png","timestamp":"2014-11-12T01:51:42.866Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:51:53.228Z"}
+{"level":"debug","message":"imagepath: 0320cfb815a5ba59fa4df205889c7ec4.jpg","timestamp":"2014-11-12T01:51:53.238Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\profile\\0320cfb815a5ba59fa4df205889c7ec4.jpg","timestamp":"2014-11-12T01:51:53.238Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T01:51:55.401Z"}
+{"level":"debug","message":"imagepath: 0320cfb815a5ba59fa4df205889c7ec4.jpg","timestamp":"2014-11-12T01:51:55.406Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\profile\\0320cfb815a5ba59fa4df205889c7ec4.jpg","timestamp":"2014-11-12T01:51:55.407Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T02:12:21.561Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K([object Object])","timestamp":"2014-11-12T02:12:22.105Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","prof_img":null,"level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T02:12:22.105Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T02:12:22.105Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T01:51:55.636Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T02:12:22.105Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2014-11-12T02:12:22.105Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","prof_img":null,"level":"debug","message":"req.user: ","timestamp":"2014-11-12T02:12:22.105Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T02:18:47.124Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K([object Object])","timestamp":"2014-11-12T02:18:47.621Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","prof_img":"default_img.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T02:18:47.621Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T02:18:47.621Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T02:12:22.105Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T02:18:47.621Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2014-11-12T02:18:47.621Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","prof_img":"default_img.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T02:18:47.621Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T02:19:20.850Z"}
+{"level":"debug","message":"imagepath: default_img.png","timestamp":"2014-11-12T02:19:20.852Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\profile\\default_img.png","timestamp":"2014-11-12T02:19:20.852Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T02:19:21.620Z"}
+{"level":"debug","message":"imagepath: default_img.png","timestamp":"2014-11-12T02:19:21.620Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\profile\\default_img.png","timestamp":"2014-11-12T02:19:21.620Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T02:20:39.938Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T02:20:40.102Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T02:20:40.117Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T02:20:44.506Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T02:20:45.001Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T02:20:45.001Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T02:20:45.001Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T02:20:40.117Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T02:20:45.001Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T02:20:45.001Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T02:20:45.001Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T03:22:03.324Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T03:37:38.785Z"}
+{"level":"debug","message":"req.user: ","timestamp":"2014-11-12T03:37:38.790Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K([object Object])","timestamp":"2014-11-12T03:37:47.905Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","prof_img":"default_img.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T03:37:47.912Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T03:37:47.912Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T03:37:38.790Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T03:37:47.912Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2014-11-12T03:37:47.913Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","prof_img":"default_img.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T03:37:47.913Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T03:37:54.259Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:11:14.715Z"}
+{"level":"debug","message":"p9.png->817608aec02ac14bddba43d30efe3532.png","timestamp":"2014-11-12T04:11:14.975Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"817608aec02ac14bddba43d30efe3532.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:33:40.657Z"}
+{"level":"debug","message":"fields: [object Object]","timestamp":"2014-11-12T04:33:40.669Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:34:54.994Z"}
+{"level":"debug","message":"fields: [object Object]","timestamp":"2014-11-12T04:34:55.009Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:35:17.075Z"}
+{"level":"debug","message":"fields: bucheon1","timestamp":"2014-11-12T04:35:17.096Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:35:59.604Z"}
+{"level":"debug","message":"p1.jpg->09376035c9e50a3f06fcaf30a75b56ec.jpg","timestamp":"2014-11-12T04:35:59.904Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"09376035c9e50a3f06fcaf30a75b56ec.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:36:15.865Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"09376035c9e50a3f06fcaf30a75b56ec.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:43:06.636Z"}
+{"level":"debug","message":"fields: bucheon1","timestamp":"2014-11-12T04:43:06.643Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"09376035c9e50a3f06fcaf30a75b56ec.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:43:20.935Z"}
+{"level":"debug","message":"fields: [object Object]","timestamp":"2014-11-12T04:43:20.936Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"09376035c9e50a3f06fcaf30a75b56ec.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:44:33.208Z"}
+{"level":"debug","message":"fields: [object Object]","timestamp":"2014-11-12T04:44:33.225Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"09376035c9e50a3f06fcaf30a75b56ec.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:45:05.527Z"}
+{"level":"debug","message":"fields: [object Object]","timestamp":"2014-11-12T04:45:05.533Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:45:32.802Z"}
+{"level":"debug","message":"p1.jpg->fa209d192f83ea451dd89828b3016891.jpg","timestamp":"2014-11-12T04:45:33.147Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"fa209d192f83ea451dd89828b3016891.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:45:44.831Z"}
+{"level":"debug","message":"fields: [object Object]","timestamp":"2014-11-12T04:45:44.837Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"fa209d192f83ea451dd89828b3016891.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:46:35.111Z"}
+{"level":"debug","message":"fields: [object Object]","timestamp":"2014-11-12T04:46:35.124Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:49:41.564Z"}
+{"level":"debug","message":"p2.jpg->6846929a6983d25d6c513ae3c454501e.jpg","timestamp":"2014-11-12T04:49:41.899Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"6846929a6983d25d6c513ae3c454501e.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:49:52.513Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"6846929a6983d25d6c513ae3c454501e.jpg","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:51:59.046Z"}
+{"level":"debug","message":"p6.png->eaf1067f8513334d0090a6cbf3f7a0e1.png","timestamp":"2014-11-12T04:51:59.257Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"eaf1067f8513334d0090a6cbf3f7a0e1.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:52:07.273Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"eaf1067f8513334d0090a6cbf3f7a0e1.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:53:43.443Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"eaf1067f8513334d0090a6cbf3f7a0e1.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:54:21.676Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"eaf1067f8513334d0090a6cbf3f7a0e1.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:58:10.886Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"eaf1067f8513334d0090a6cbf3f7a0e1.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:58:34.337Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"eaf1067f8513334d0090a6cbf3f7a0e1.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T04:59:00.550Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"eaf1067f8513334d0090a6cbf3f7a0e1.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:01:48.626Z"}
+{"level":"debug","message":"fields: [object Object], eaf1067f8513334d0090a6cbf3f7a0e1.png","timestamp":"2014-11-12T05:01:48.629Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:02:19.678Z"}
+{"level":"debug","message":"p7.png->8ed092a9c8ef5d68680b6f44f322e8df.png","timestamp":"2014-11-12T05:02:19.838Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"8ed092a9c8ef5d68680b6f44f322e8df.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:02:38.593Z"}
+{"level":"debug","message":"fields: [object Object], 8ed092a9c8ef5d68680b6f44f322e8df.png","timestamp":"2014-11-12T05:02:38.603Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:03:29.818Z"}
+{"level":"debug","message":"fields: [object Object], ","timestamp":"2014-11-12T05:03:29.823Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:04:18.510Z"}
+{"level":"debug","message":"p8.png->4889dfbfd28911e2c5f922d36c8d4eb2.png","timestamp":"2014-11-12T05:04:18.522Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4889dfbfd28911e2c5f922d36c8d4eb2.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:35:56.179Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:43:15.476Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:43:16.066Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:43:16.066Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:44:34.356Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:44:34.492Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:44:34.492Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:45:21.517Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:45:21.624Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:45:21.624Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:45:48.883Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:45:49.000Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:45:49.000Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:46:34.090Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:46:34.216Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:46:34.216Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:47:05.321Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:47:05.432Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:47:05.432Z"}
+{"level":"debug","message":"passport.serializeUser() false","timestamp":"2014-11-12T05:47:05.447Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:47:20.903Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:47:21.002Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:47:21.002Z"}
+{"level":"debug","message":"passport.serializeUser() false","timestamp":"2014-11-12T05:47:21.017Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:47:43.093Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T05:47:44.669Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T05:47:44.677Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T05:47:44.677Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T05:47:21.017Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T05:47:44.678Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T05:47:44.678Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T05:47:44.678Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:47:51.662Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:47:51.785Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:47:51.786Z"}
+{"level":"debug","message":"passport.serializeUser() false","timestamp":"2014-11-12T05:47:51.790Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:49:02.347Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:49:02.525Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:49:02.541Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:55:55.593Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:55:55.807Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:55:55.807Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T05:57:56.897Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T05:58:09.375Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T05:58:09.377Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:13:50.347Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:13:50.451Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:13:50.467Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:15:11.846Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:15:11.945Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:15:11.945Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:24:32.073Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:24:32.172Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:24:32.172Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:25:06.709Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T06:25:07.295Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T06:25:07.295Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T06:25:07.295Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T06:24:32.185Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T06:25:07.295Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T06:25:07.295Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T06:25:07.295Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:25:15.058Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:25:15.138Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:25:15.138Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:31:38.251Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K([object Object])","timestamp":"2014-11-12T06:31:38.946Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T06:31:38.962Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T06:31:38.962Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T06:25:15.150Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T06:31:38.962Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2014-11-12T06:31:38.962Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T06:31:38.962Z"}
+{"user_id":1,"login_id":"admin","password":"$2a$10$6ZkaEaE53xCodx806xt5aemp5vaKXxVL7eYnZkpcaFQQqA15M6Y3K","name":"admin","stid":1,"prof_img":"4b298964866b43ca9977f0c2f76b318f.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:32:02.853Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T06:32:06.219Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T06:32:06.227Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T06:32:06.227Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T06:31:38.962Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T06:32:06.227Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T06:32:06.227Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T06:32:06.227Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:32:15.339Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T06:32:15.791Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T06:32:15.791Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T06:32:15.791Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T06:32:06.227Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T06:32:15.791Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T06:32:15.791Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T06:32:15.791Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:32:18.939Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:32:19.022Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:32:19.022Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:32:24.368Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T06:32:24.737Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T06:32:24.737Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T06:32:24.737Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T06:32:19.031Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T06:32:24.737Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T06:32:24.737Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T06:32:24.737Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:35:09.169Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T06:35:09.604Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T06:35:09.604Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T06:35:09.604Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T06:32:24.737Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T06:35:09.604Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T06:35:09.604Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T06:35:09.604Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:35:12.403Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:35:12.496Z"}
+{"level":"debug","message":"hahaNo user found.","timestamp":"2014-11-12T06:35:12.496Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:35:55.217Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:35:55.338Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:35:55.339Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:36:37.729Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:36:37.841Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:36:37.841Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:36:44.323Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:36:44.421Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:36:44.421Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T06:38:40.931Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T06:38:41.043Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T06:38:41.043Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:14:14.411Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2014-11-12T08:14:14.509Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:17:39.358Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2014-11-12T08:17:39.452Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:33:47.916Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T08:17:39.470Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T08:33:47.919Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T08:33:47.920Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T08:33:47.920Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:34:02.681Z"}
+{"level":"debug","message":"imagepath: cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","timestamp":"2014-11-12T08:34:02.686Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\profile\\cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","timestamp":"2014-11-12T08:34:02.686Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:34:03.025Z"}
+{"level":"debug","message":"imagepath: cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","timestamp":"2014-11-12T08:34:03.025Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\profile\\cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","timestamp":"2014-11-12T08:34:03.025Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:37:57.332Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$svSR8mCCP0jPYJL0YXFQLOaZcaVXT6DvPsDB0arrdJy1zxv.6CXUG([object Object])","timestamp":"2014-11-12T08:37:57.782Z"}
+{"user_id":3,"login_id":"test2","password":"$2a$10$svSR8mCCP0jPYJL0YXFQLOaZcaVXT6DvPsDB0arrdJy1zxv.6CXUG","name":"je","prof_img":"default_img.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T08:37:57.782Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T08:37:57.782Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T08:34:03.044Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":3},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T08:37:57.782Z"}
+{"level":"debug","message":"req.session.passport.user:  3","timestamp":"2014-11-12T08:37:57.782Z"}
+{"user_id":3,"login_id":"test2","password":"$2a$10$svSR8mCCP0jPYJL0YXFQLOaZcaVXT6DvPsDB0arrdJy1zxv.6CXUG","name":"je","prof_img":"default_img.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T08:37:57.782Z"}
+{"user_id":3,"login_id":"test2","password":"$2a$10$svSR8mCCP0jPYJL0YXFQLOaZcaVXT6DvPsDB0arrdJy1zxv.6CXUG","name":"je","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:38:02.330Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T08:38:02.405Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T08:38:02.405Z"}
+{"user_id":3,"login_id":"test2","password":"$2a$10$svSR8mCCP0jPYJL0YXFQLOaZcaVXT6DvPsDB0arrdJy1zxv.6CXUG","name":"je","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:39:56.447Z"}
+{"user_id":3,"login_id":"test2","password":"$2a$10$svSR8mCCP0jPYJL0YXFQLOaZcaVXT6DvPsDB0arrdJy1zxv.6CXUG","name":"je","stid":1,"prof_img":null,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:40:23.973Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe([object Object])","timestamp":"2014-11-12T08:40:24.366Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-12T08:40:24.366Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2014-11-12T08:40:24.366Z"}
+{"cookie":{"path":"/","_expires":"2014-11-13T08:38:02.405Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-12T08:40:24.366Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-12T08:40:24.366Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"req.user: ","timestamp":"2014-11-12T08:40:24.366Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:40:27.547Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:42:35.946Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:43:10.715Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:46:32.438Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:47:48.303Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:54:12.393Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:55:41.728Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T08:55:49.508Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:04:34.739Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:07:22.576Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:07:42.533Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:08:47.779Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:09:23.849Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:09:32.188Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:17:54.219Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:18:18.217Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:18:43.825Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:19:27.213Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:19:39.915Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:19:58.559Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:20:09.001Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:20:18.248Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:23:01.654Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:23:16.997Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:24:02.741Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:37:42.625Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:38:39.068Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:38:58.873Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T09:42:53.210Z"}
+{"level":"error","message":"죄송합니다. 잠시 후에 다시 시도해주세요.","timestamp":"2014-11-12T09:42:53.533Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:11:44.383Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:11:44.689Z"}
+{"level":"error","message":"죄송합니다. 잠시 후에 다시 시도해주세요.","timestamp":"2014-11-12T10:11:44.735Z"}
+{"level":"error","message":"죄송합니다. 잠시 후에 다시 시도해주세요.","timestamp":"2014-11-12T10:11:45.011Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:16:30.315Z"}
+{"level":"error","message":"이미 구입한 상품이 있습니다. 다시 확인후 구매해주세요.","timestamp":"2014-11-12T10:16:30.633Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:17:18.850Z"}
+{"level":"error","message":"이미 구입한 상품이 있습니다. 다시 확인후 구매해주세요.","timestamp":"2014-11-12T10:17:19.183Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:17:31.036Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:18:08.843Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:18:30.119Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:18:34.646Z"}
+{"level":"error","message":"이미 구입한 상품이 있습니다. 다시 확인후 구매해주세요.","timestamp":"2014-11-12T10:18:34.979Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:18:46.244Z"}
+{"level":"error","message":"이미 구입한 상품이 있습니다. 다시 확인후 구매해주세요.","timestamp":"2014-11-12T10:18:46.561Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:23:19.315Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"cd1dcbc6a8d0e9d98b1eb58b879dc43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:24:57.096Z"}
+{"level":"debug","message":"p6.png->107e063bb10069a898895635000e18b7.png","timestamp":"2014-11-12T10:24:57.305Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"107e063bb10069a898895635000e18b7.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:26:44.080Z"}
+{"level":"debug","message":"p6.png->2e60769a7478e6a763e14ee6f16ea43c.png","timestamp":"2014-11-12T10:26:44.283Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"2e60769a7478e6a763e14ee6f16ea43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:28:20.821Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"2e60769a7478e6a763e14ee6f16ea43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T10:31:15.442Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T10:31:15.551Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T10:31:15.551Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"2e60769a7478e6a763e14ee6f16ea43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T11:12:44.226Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T11:12:44.322Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T11:12:44.322Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"2e60769a7478e6a763e14ee6f16ea43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T11:12:51.485Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T11:12:51.570Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T11:12:51.570Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"2e60769a7478e6a763e14ee6f16ea43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T11:12:57.085Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T11:12:57.169Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T11:12:57.169Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"2e60769a7478e6a763e14ee6f16ea43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T11:13:47.114Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T11:13:47.220Z"}
+{"level":"debug","message":"No user found.","timestamp":"2014-11-12T11:13:47.220Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"2e60769a7478e6a763e14ee6f16ea43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T11:13:55.095Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T11:13:55.505Z"}
+{"level":"debug","message":"비밀번호를 다시한번 확인해주세요.","timestamp":"2014-11-12T11:13:55.505Z"}
+{"user_id":2,"login_id":"test","password":"$2a$10$twdYP3IoxxfaM.c9AUDae.cmixgnkvlOVCnV2qelrXtlrVmqdLHXe","name":"test","stid":1,"prof_img":"2e60769a7478e6a763e14ee6f16ea43c.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-12T11:14:38.256Z"}
+{"level":"debug","message":"not logged in... ","timestamp":"2014-11-12T11:14:38.657Z"}
+{"level":"debug","message":"비밀번호를 다시한번 확인해주세요.","timestamp":"2014-11-12T11:14:38.657Z"}

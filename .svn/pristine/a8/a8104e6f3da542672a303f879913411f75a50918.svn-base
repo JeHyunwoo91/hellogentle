@@ -1,0 +1,13 @@
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'ejs'","timestamp":"2015-06-12T04:26:17.926Z"}
+{"level":"debug","message":"Caught exception at md: Error: Cannot find module 'ejs'","timestamp":"2015-06-12T04:26:17.927Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: Cannot find module 'ejs'","timestamp":"2015-06-12T04:26:17.927Z"}
+{"level":"debug","message":"Caught exception at images: Error: Cannot find module 'ejs'","timestamp":"2015-06-12T04:26:17.927Z"}
+{"level":"debug","message":"Caught exception at story: Cannot find module 'ejs'","timestamp":"2015-06-12T04:26:17.927Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot find module 'ejs'","timestamp":"2015-06-12T04:26:17.927Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6([object Object])","timestamp":"2015-06-12T04:27:39.154Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","name":"test","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-12T04:27:39.156Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-06-12T04:27:39.156Z"}
+{"cookie":{"path":"/","_expires":"2015-06-13T04:27:38.406Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":19},"level":"debug","message":"req.session: ","timestamp":"2015-06-12T04:27:39.157Z"}
+{"level":"debug","message":"req.session.passport.user:  19","timestamp":"2015-06-12T04:27:39.157Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","name":"test","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","level":"debug","message":"req.user: ","timestamp":"2015-06-12T04:27:39.157Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-12T04:28:06.151Z"}

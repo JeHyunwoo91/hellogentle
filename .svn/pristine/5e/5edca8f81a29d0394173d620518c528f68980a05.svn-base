@@ -1,0 +1,2 @@
+{"level":"error","message":"Cannot read property 'login_id' of undefined","timestamp":"2014-11-15T16:02:26.283Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND","timestamp":"2014-11-15T16:02:32.341Z"}

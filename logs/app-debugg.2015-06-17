@@ -1,0 +1,151 @@
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T03:40:13.663Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T03:41:34.432Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T03:52:29.125Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T04:02:09.109Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T04:02:25.437Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T04:02:57.832Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T04:04:51.701Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T04:04:58.070Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T04:05:16.168Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T04:41:45.435Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T04:44:46.323Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T06:22:31.896Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T06:27:09.564Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T06:27:09.570Z"}
+{"message":"","level":"error","timestamp":"2015-06-17T06:27:09.571Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-17T06:29:38.135Z"}
+{"level":"debug","message":"Caught exception at stylist: Error: listen EADDRINUSE","timestamp":"2015-06-17T06:29:38.139Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-17T06:29:38.139Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-17T06:29:38.139Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-17T06:29:38.139Z"}
+{"level":"debug","message":"Caught exception at story: listen EADDRINUSE","timestamp":"2015-06-17T06:29:38.142Z"}
+{"level":"debug","message":"Caught exception at reply: listen EADDRINUSE","timestamp":"2015-06-17T06:29:38.142Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T06:29:59.724Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T06:29:59.731Z"}
+{"message":"","level":"error","timestamp":"2015-06-17T06:29:59.733Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T06:31:29.208Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T06:31:29.210Z"}
+{"message":"","level":"error","timestamp":"2015-06-17T06:31:29.210Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T06:34:27.618Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T06:47:21.028Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-17T06:47:21.032Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$0CvDCYGIqycBlQAkav.Ryu(29)","timestamp":"2015-06-17T06:47:46.830Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$0CvDCYGIqycBlQAkav.RyuFCsKrMItAjO50YgWuf/n0o/SOKokZNO(60)","timestamp":"2015-06-17T06:47:47.243Z"}
+{"email":"test2","password":"$2a$10$0CvDCYGIqycBlQAkav.RyuFCsKrMItAjO50YgWuf/n0o/SOKokZNO","name":"test","prof_img":"icon.png","join_date":"2015-06-17 15:47:47","user_id":4,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-17T06:47:47.295Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-17T06:47:47.296Z"}
+{"cookie":{"path":"/","_expires":"2015-06-18T06:47:21.036Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":4},"level":"debug","message":"req.session: ","timestamp":"2015-06-17T06:47:47.297Z"}
+{"level":"debug","message":"req.session.passport_stylist.stylist:  undefined","timestamp":"2015-06-17T06:47:47.297Z"}
+{"level":"debug","message":"req.stylist:  undefined","timestamp":"2015-06-17T06:47:47.297Z"}
+{"level":"error","message":"Cannot read property 'stid' of undefined","timestamp":"2015-06-17T06:47:47.299Z"}
+{"user_id":4,"email":"test2","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-17T06:50:17.373Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T06:50:17.459Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-17T06:50:17.460Z"}
+{"user_id":4,"email":"test2","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-17T06:51:16.010Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$MDL8S2kJxi1pkNQd3AjVh.(29)","timestamp":"2015-06-17T06:51:16.259Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$MDL8S2kJxi1pkNQd3AjVh.Ag3402iFS0ywE2H3UwCgp.oApSR9C66(60)","timestamp":"2015-06-17T06:51:16.562Z"}
+{"email":"test3","password":"$2a$10$MDL8S2kJxi1pkNQd3AjVh.Ag3402iFS0ywE2H3UwCgp.oApSR9C66","name":"test","prof_img":"icon.png","join_date":"2015-06-17 15:51:16","user_id":5,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-17T06:51:16.608Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-17T06:51:16.608Z"}
+{"cookie":{"path":"/","_expires":"2015-06-18T06:50:17.464Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":5},"level":"debug","message":"req.session: ","timestamp":"2015-06-17T06:51:16.609Z"}
+{"level":"debug","message":"req.session.passport_stylist.stylist:  undefined","timestamp":"2015-06-17T06:51:16.609Z"}
+{"level":"debug","message":"req.stylist:  undefined","timestamp":"2015-06-17T06:51:16.609Z"}
+{"level":"error","message":"Cannot read property 'stid' of undefined","timestamp":"2015-06-17T06:51:16.610Z"}
+{"user_id":5,"email":"test3","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-17T07:06:44.351Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m([object Object])","timestamp":"2015-06-17T07:06:44.771Z"}
+{"user_id":1,"email":"test","password":"$2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m","name":"test","level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-17T07:06:44.772Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-06-17T07:06:44.772Z"}
+{"cookie":{"path":"/","_expires":"2015-06-18T06:51:16.611Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2015-06-17T07:06:44.772Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2015-06-17T07:06:44.772Z"}
+{"user_id":1,"email":"test","password":"$2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m","name":"test","level":"debug","message":"req.user: ","timestamp":"2015-06-17T07:06:44.773Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T07:16:19.732Z"}
+{"level":"debug","message":"Caught exception at user: SyntaxError: Unexpected token .","timestamp":"2015-06-17T07:16:59.304Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T07:17:53.217Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:19:54.401Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T07:19:54.496Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-17T07:19:54.498Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:20:34.501Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T07:20:34.501Z"}
+{"message":"","level":"error","timestamp":"2015-06-17T07:20:34.501Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:20:39.362Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T07:20:39.363Z"}
+{"message":"","level":"error","timestamp":"2015-06-17T07:20:39.363Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:20:43.132Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T07:20:43.133Z"}
+{"message":"","level":"error","timestamp":"2015-06-17T07:20:43.133Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:22:13.238Z"}
+{"level":"error","message":"Unknown authentication strategy \"local-signup-stylist\"","timestamp":"2015-06-17T07:22:13.244Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:23:08.496Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-17T07:23:08.502Z"}
+{"message":"","level":"error","timestamp":"2015-06-17T07:23:08.504Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:23:47.698Z"}
+{"level":"debug","message":"Caught exception at stylist: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:23:47.700Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:23:47.700Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:23:47.700Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:23:47.700Z"}
+{"level":"debug","message":"Caught exception at story: listen EADDRINUSE","timestamp":"2015-06-17T07:23:47.702Z"}
+{"level":"debug","message":"Caught exception at reply: listen EADDRINUSE","timestamp":"2015-06-17T07:23:47.702Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:39:20.053Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:39:43.868Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:39:53.578Z"}
+{"level":"error","message":"Not Found","timestamp":"2015-06-17T07:42:18.535Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$8l0aOQJBlI0DCLninZuZC.(29)","timestamp":"2015-06-17T07:43:46.962Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$8l0aOQJBlI0DCLninZuZC.rJ0duyR2/7bm5xkVa41utZIc5QYB38e(60)","timestamp":"2015-06-17T07:43:47.259Z"}
+{"account":"stst","password":"$2a$10$8l0aOQJBlI0DCLninZuZC.rJ0duyR2/7bm5xkVa41utZIc5QYB38e","kakaolink":"test","prof_img":"icon.png","join_date":"2015-06-17 16:43:47","stid":3,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-17T07:43:47.306Z"}
+{"account":"stst","password":"$2a$10$8l0aOQJBlI0DCLninZuZC.rJ0duyR2/7bm5xkVa41utZIc5QYB38e","kakaolink":"test","prof_img":"icon.png","join_date":"2015-06-17 16:43:47","stid":3,"level":"debug","message":"passport.serializeStylist()","timestamp":"2015-06-17T07:43:47.307Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-17T07:43:47.309Z"}
+{"cookie":{"path":"/","_expires":"2015-06-18T07:42:18.541Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":3},"level":"debug","message":"req.session: ","timestamp":"2015-06-17T07:43:47.310Z"}
+{"level":"debug","message":"req.session.passport_stylist.stylist:  undefined","timestamp":"2015-06-17T07:43:47.310Z"}
+{"level":"debug","message":"req.stylist:  undefined","timestamp":"2015-06-17T07:43:47.310Z"}
+{"level":"error","message":"Cannot read property 'stid' of undefined","timestamp":"2015-06-17T07:43:47.312Z"}
+{"user_id":3,"email":"je2","stid":1,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","gbid":6,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:49:16.021Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$tiFoKmt6X1E9Q5ut98z4hu(29)","timestamp":"2015-06-17T07:49:16.334Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$tiFoKmt6X1E9Q5ut98z4huJyjd5X.Otd3I9rMrt6bdbGAlLNbLJRy(60)","timestamp":"2015-06-17T07:49:16.727Z"}
+{"account":"st1","password":"$2a$10$tiFoKmt6X1E9Q5ut98z4huJyjd5X.Otd3I9rMrt6bdbGAlLNbLJRy","kakaolink":"test","prof_img":"icon.png","join_date":"2015-06-17 16:49:16","stid":4,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-17T07:49:16.774Z"}
+{"account":"st1","password":"$2a$10$tiFoKmt6X1E9Q5ut98z4huJyjd5X.Otd3I9rMrt6bdbGAlLNbLJRy","kakaolink":"test","prof_img":"icon.png","join_date":"2015-06-17 16:49:16","stid":4,"level":"debug","message":"passport.serializeStylist()","timestamp":"2015-06-17T07:49:16.774Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-17T07:49:16.775Z"}
+{"cookie":{"path":"/","_expires":"2015-06-18T07:43:47.313Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":4},"level":"debug","message":"req.session: ","timestamp":"2015-06-17T07:49:16.775Z"}
+{"level":"debug","message":"req.session.passport_stylist.stylist:  undefined","timestamp":"2015-06-17T07:49:16.775Z"}
+{"level":"debug","message":"req.stylist:  undefined","timestamp":"2015-06-17T07:49:16.775Z"}
+{"level":"error","message":"Cannot read property 'stid' of undefined","timestamp":"2015-06-17T07:49:16.777Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:49:35.825Z"}
+{"level":"debug","message":"Caught exception at stylist: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:49:35.825Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:49:35.825Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:49:35.825Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:49:35.825Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T07:50:01.649Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-17T07:51:23.689Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:53:31.155Z"}
+{"level":"debug","message":"Caught exception at stylist: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:53:31.158Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:53:31.158Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:53:31.159Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:53:31.159Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:54:03.462Z"}
+{"level":"debug","message":"Caught exception at stylist: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:54:03.463Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:54:03.463Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:54:03.463Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-17T07:54:03.463Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:54:13.049Z"}
+{"level":"debug","message":"Caught exception at stylist: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:54:13.052Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:54:13.053Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:54:13.053Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:54:13.053Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:56:13.644Z"}
+{"level":"debug","message":"Caught exception at stylist: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:56:13.647Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:56:13.648Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:56:13.648Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-17T07:56:13.648Z"}
+{"level":"error","message":"Cannot read property 'email' of undefined","timestamp":"2015-06-17T07:57:25.384Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m([object Object])","timestamp":"2015-06-17T07:57:29.931Z"}
+{"user_id":1,"email":"test","password":"$2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m","name":"test","level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-17T07:57:29.932Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-06-17T07:57:29.932Z"}
+{"cookie":{"path":"/","_expires":"2015-06-18T07:57:25.385Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2015-06-17T07:57:29.933Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2015-06-17T07:57:29.933Z"}
+{"user_id":1,"email":"test","password":"$2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m","name":"test","level":"debug","message":"req.user: ","timestamp":"2015-06-17T07:57:29.933Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T07:57:39.566Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T08:14:07.883Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-17T08:14:15.255Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m([object Object])","timestamp":"2015-06-17T08:14:15.676Z"}
+{"user_id":1,"email":"test","password":"$2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m","name":"test","level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-17T08:14:15.676Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-06-17T08:14:15.676Z"}
+{"cookie":{"path":"/","_expires":"2015-06-18T08:14:07.973Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2015-06-17T08:14:15.677Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2015-06-17T08:14:15.677Z"}
+{"user_id":1,"email":"test","password":"$2a$10$E6n7XVU78k5nsNU2VYwCkuo6SH1HjuWzLzZuWrBWwsYShS73JlO/m","name":"test","level":"debug","message":"req.user: ","timestamp":"2015-06-17T08:14:15.677Z"}

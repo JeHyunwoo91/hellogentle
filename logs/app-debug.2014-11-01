@@ -1,0 +1,4 @@
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$0iBitEQtA6t2PHr.Uj2DqO(29)","timestamp":"2014-11-01T07:31:26.614Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$0iBitEQtA6t2PHr.Uj2DqOfu7gpGBFzJIkY7qgG3UFmAZFtEj1q5.(60)","timestamp":"2014-11-01T07:31:27.063Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$iSyxQewhJnTIhKJeM6LGBO(29)","timestamp":"2014-11-01T07:32:17.383Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$iSyxQewhJnTIhKJeM6LGBOPxcQz0utVkN6NLgqqwUwbaaFrqMyDzW(60)","timestamp":"2014-11-01T07:32:17.829Z"}

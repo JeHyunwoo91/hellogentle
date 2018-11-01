@@ -1,0 +1,164 @@
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-18T01:09:55.656Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-18T01:10:00.387Z"}
+{"level":"error","message":"Not Found","timestamp":"2015-06-18T01:10:00.388Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-18T01:10:15.348Z"}
+{"level":"error","message":"Not Found","timestamp":"2015-06-18T01:10:15.353Z"}
+{"level":"debug","message":"Caught exception at user: ReferenceError: StylistSignup is not defined","timestamp":"2015-06-18T01:10:28.204Z"}
+{"level":"debug","message":"Caught exception at stylist: ReferenceError: StylistSignup is not defined","timestamp":"2015-06-18T01:10:28.206Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-18T01:11:29.247Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T01:11:29.254Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T01:11:29.255Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-18T01:22:36.915Z"}
+{"level":"error","message":"sylist is not defined","timestamp":"2015-06-18T01:22:36.927Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-18T01:22:53.143Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T01:22:53.151Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T01:22:53.153Z"}
+{"user_id":1,"email":"test","stid":1,"name":"test","zipno":"422-110","ads_dong":"원미2동","ads_detail":"풍림아파트","age":24,"job":"student","phone":"010-1234-5678","level":"debug","mainly":"2","want":"2","worst":"2","shoes":"2","problem":"2","weight":"79","height":"180","top":"95","waist":"32","footsize":"275","prof_img":"icon.png","gbid":5,"message":"passport.deserializeUser()","timestamp":"2015-06-18T01:24:44.350Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$7/8XTB7E6poa5xphV96zGO(29)","timestamp":"2015-06-18T01:24:44.727Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$7/8XTB7E6poa5xphV96zGOx22C7wE9TDEjtCtVIe0u6yhcZCNxxYu(60)","timestamp":"2015-06-18T01:24:45.029Z"}
+{"email":"test2","password":"$2a$10$7/8XTB7E6poa5xphV96zGOx22C7wE9TDEjtCtVIe0u6yhcZCNxxYu","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:24:45","user_id":2,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T01:24:45.075Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T01:24:45.076Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T01:22:53.156Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T01:24:45.078Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2015-06-18T01:24:45.078Z"}
+{"email":"test2","password":"$2a$10$7/8XTB7E6poa5xphV96zGOx22C7wE9TDEjtCtVIe0u6yhcZCNxxYu","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:24:45","user_id":2,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T01:24:45.078Z"}
+{"user_id":2,"email":"test2","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T01:25:24.869Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$G9iHr4O9XcT8J0czX05HKe(29)","timestamp":"2015-06-18T01:25:25.320Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$G9iHr4O9XcT8J0czX05HKee9qvG8Dad24Pq4qjJRGnz8NKklSNuU2(60)","timestamp":"2015-06-18T01:25:25.897Z"}
+{"email":"test3","password":"$2a$10$G9iHr4O9XcT8J0czX05HKee9qvG8Dad24Pq4qjJRGnz8NKklSNuU2","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:25:25","user_id":3,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T01:25:25.947Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T01:25:25.949Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T01:24:45.083Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":3},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T01:25:25.950Z"}
+{"level":"debug","message":"req.session.passport.user:  3","timestamp":"2015-06-18T01:25:25.950Z"}
+{"email":"test3","password":"$2a$10$G9iHr4O9XcT8J0czX05HKee9qvG8Dad24Pq4qjJRGnz8NKklSNuU2","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:25:25","user_id":3,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T01:25:25.950Z"}
+{"user_id":3,"email":"test3","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T01:35:25.085Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T01:35:25.095Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T01:35:25.096Z"}
+{"user_id":3,"email":"test3","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T01:35:55.582Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T01:35:59.974Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T01:35:59.975Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T01:38:35.566Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-18T01:38:35.569Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$Xa7t/P7KgiCm8.u8Rcu.Wu(29)","timestamp":"2015-06-18T01:38:41.600Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$Xa7t/P7KgiCm8.u8Rcu.WuExWlmK5MTG7Uif7.eX7mUvEe6ywB/Vq(60)","timestamp":"2015-06-18T01:38:41.908Z"}
+{"email":"test4","password":"$2a$10$Xa7t/P7KgiCm8.u8Rcu.WuExWlmK5MTG7Uif7.eX7mUvEe6ywB/Vq","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:38:41","user_id":4,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T01:38:41.955Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T01:38:41.955Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T01:38:35.570Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":4},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T01:38:41.956Z"}
+{"level":"debug","message":"req.session.passport.user:  4","timestamp":"2015-06-18T01:38:41.956Z"}
+{"email":"test4","password":"$2a$10$Xa7t/P7KgiCm8.u8Rcu.WuExWlmK5MTG7Uif7.eX7mUvEe6ywB/Vq","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:38:41","user_id":4,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T01:38:41.956Z"}
+{"user_id":4,"email":"test4","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T01:39:40.911Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T01:39:40.915Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T01:39:40.916Z"}
+{"user_id":4,"email":"test4","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T01:40:22.969Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T01:40:22.972Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T01:40:22.973Z"}
+{"user_id":4,"email":"test4","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T01:44:27.984Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T01:44:28.070Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-18T01:44:28.071Z"}
+{"user_id":4,"email":"test4","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T01:44:32.321Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$Q1Vt4xu/Ze37Hvauakd9Ou(29)","timestamp":"2015-06-18T01:44:32.566Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$Q1Vt4xu/Ze37Hvauakd9Ou2JNmnFK7g08MKNyG5ButdxEviTF84au(60)","timestamp":"2015-06-18T01:44:32.871Z"}
+{"email":"test5","password":"$2a$10$Q1Vt4xu/Ze37Hvauakd9Ou2JNmnFK7g08MKNyG5ButdxEviTF84au","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:44:32","user_id":5,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T01:44:32.916Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T01:44:32.916Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T01:44:28.072Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":5},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T01:44:32.916Z"}
+{"level":"debug","message":"req.session.passport.user:  5","timestamp":"2015-06-18T01:44:32.917Z"}
+{"email":"test5","password":"$2a$10$Q1Vt4xu/Ze37Hvauakd9Ou2JNmnFK7g08MKNyG5ButdxEviTF84au","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:44:32","user_id":5,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T01:44:32.917Z"}
+{"user_id":5,"email":"test5","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 10:44:32","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T01:59:06.982Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$zNdQ.1j6wvog.3lFSvPbVu(29)","timestamp":"2015-06-18T01:59:07.357Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$zNdQ.1j6wvog.3lFSvPbVucGnvHhOrkKt6j.XN5L7htOAlizUdbru(60)","timestamp":"2015-06-18T01:59:07.692Z"}
+{"email":"test6","password":"$2a$10$zNdQ.1j6wvog.3lFSvPbVucGnvHhOrkKt6j.XN5L7htOAlizUdbru","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:59:07","user_id":6,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T01:59:07.744Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T01:59:07.744Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T01:44:32.917Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":6},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T01:59:07.745Z"}
+{"level":"debug","message":"req.session.passport.user:  6","timestamp":"2015-06-18T01:59:07.745Z"}
+{"email":"test6","password":"$2a$10$zNdQ.1j6wvog.3lFSvPbVucGnvHhOrkKt6j.XN5L7htOAlizUdbru","name":"test","prof_img":"icon.png","join_date":"2015-06-18 10:59:07","user_id":6,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T01:59:07.745Z"}
+{"user_id":6,"email":"test6","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 10:59:07","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:00:37.496Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$2gzEGpriwLbI6kWldOfND.(29)","timestamp":"2015-06-18T02:00:37.963Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$2gzEGpriwLbI6kWldOfND.NOMzxpLEf41AO435UIAgi/t7DH3VJrm(60)","timestamp":"2015-06-18T02:00:38.381Z"}
+{"email":"test7","password":"$2a$10$2gzEGpriwLbI6kWldOfND.NOMzxpLEf41AO435UIAgi/t7DH3VJrm","name":"test","prof_img":"icon.png","join_date":"2015-06-18 11:00:38","user_id":7,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T02:00:38.446Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T02:00:38.446Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T01:59:07.746Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":7},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T02:00:38.447Z"}
+{"level":"debug","message":"req.session.passport.user:  7","timestamp":"2015-06-18T02:00:38.447Z"}
+{"email":"test7","password":"$2a$10$2gzEGpriwLbI6kWldOfND.NOMzxpLEf41AO435UIAgi/t7DH3VJrm","name":"test","prof_img":"icon.png","join_date":"2015-06-18 11:00:38","user_id":7,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T02:00:38.447Z"}
+{"user_id":7,"email":"test7","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:00:38","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:02:01.295Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$bJsI.Z2.0r46xdCFSOJXnO(29)","timestamp":"2015-06-18T02:02:01.637Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$bJsI.Z2.0r46xdCFSOJXnOE4mJVfm1cNXdu.X4oImEM7DF3NEimvW(60)","timestamp":"2015-06-18T02:02:01.991Z"}
+{"email":"test8","password":"$2a$10$bJsI.Z2.0r46xdCFSOJXnOE4mJVfm1cNXdu.X4oImEM7DF3NEimvW","name":"test","prof_img":"icon.png","join_date":"2015-06-18 11:02:01","user_id":8,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T02:02:02.051Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T02:02:02.051Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T02:00:38.448Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":8},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T02:02:02.053Z"}
+{"level":"debug","message":"req.session.passport.user:  8","timestamp":"2015-06-18T02:02:02.054Z"}
+{"email":"test8","password":"$2a$10$bJsI.Z2.0r46xdCFSOJXnOE4mJVfm1cNXdu.X4oImEM7DF3NEimvW","name":"test","prof_img":"icon.png","join_date":"2015-06-18 11:02:01","user_id":8,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T02:02:02.054Z"}
+{"level":"debug","message":"Caught exception at user: Error: Cannot find module 'passport_stylist'","timestamp":"2015-06-18T02:08:50.640Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:10:11.196Z"}
+{"level":"debug","message":"Caught exception at stylist: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:10:11.198Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:10:11.198Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:10:11.198Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:10:11.198Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:10:37.651Z"}
+{"level":"error","message":"Cannot read property 'name' of undefined","timestamp":"2015-06-18T02:10:37.660Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:12:14.413Z"}
+{"level":"error","message":"Cannot read property 'kakaolink' of undefined","timestamp":"2015-06-18T02:12:14.422Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:15:35.538Z"}
+{"level":"error","message":"Cannot read property 'kakaolink' of undefined","timestamp":"2015-06-18T02:15:35.544Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:18:41.353Z"}
+{"level":"error","message":"Cannot read property 'kakaolink' of undefined","timestamp":"2015-06-18T02:18:41.362Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:19:28.573Z"}
+{"level":"error","message":"Cannot read property 'kakaolink' of undefined","timestamp":"2015-06-18T02:19:28.582Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'stid' of undefined","timestamp":"2015-06-18T02:19:57.040Z"}
+{"level":"debug","message":"Caught exception at stylist: TypeError: Cannot read property 'stid' of undefined","timestamp":"2015-06-18T02:19:57.041Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'stid' of undefined","timestamp":"2015-06-18T02:19:57.041Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'stid' of undefined","timestamp":"2015-06-18T02:19:57.041Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'stid' of undefined","timestamp":"2015-06-18T02:19:57.041Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:39:13.089Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T02:39:13.092Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T02:39:13.092Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:39:41.914Z"}
+{"level":"debug","message":"Caught exception at stylist: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:39:41.916Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:39:41.916Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:39:41.916Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:39:41.917Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:39:53.066Z"}
+{"level":"debug","message":"local-signup errCannot read property 'kakaolink' of undefined","timestamp":"2015-06-18T02:39:53.074Z"}
+{"level":"error","message":"Cannot read property 'kakaolink' of undefined","timestamp":"2015-06-18T02:39:53.075Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:40:46.622Z"}
+{"level":"debug","message":"local-signup err_stCannot read property 'kakaolink' of undefined","timestamp":"2015-06-18T02:40:46.625Z"}
+{"level":"error","message":"Cannot read property 'kakaolink' of undefined","timestamp":"2015-06-18T02:40:46.625Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:42:54.483Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T02:42:54.484Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T02:42:54.485Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:43:12.586Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T02:43:12.589Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T02:43:12.589Z"}
+{"user_id":8,"email":"test8","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:02:01","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:43:24.136Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:24.162Z"}
+{"level":"debug","message":"Caught exception at stylist: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:24.163Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:24.163Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:24.164Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:24.164Z"}
+{"level":"error","message":"Cannot read property 'name' of undefined","timestamp":"2015-06-18T02:43:29.215Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:50.601Z"}
+{"level":"debug","message":"Caught exception at stylist: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:50.603Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:50.603Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:50.603Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:43:50.603Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T02:44:05.806Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T02:44:05.811Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-18T02:45:03.753Z"}
+{"message":"","level":"error","timestamp":"2015-06-18T02:45:03.758Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$gldN2t3qbNXty7Gjbr7EO.(29)","timestamp":"2015-06-18T02:45:43.435Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$gldN2t3qbNXty7Gjbr7EO.ZrrB8Shmj5zayjk9VekqQYRZUopcIb.(60)","timestamp":"2015-06-18T02:45:43.728Z"}
+{"email":"test9","password":"$2a$10$gldN2t3qbNXty7Gjbr7EO.ZrrB8Shmj5zayjk9VekqQYRZUopcIb.","name":"test","prof_img":"icon.png","join_date":"2015-06-18 11:45:43","user_id":9,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T02:45:43.774Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T02:45:43.775Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T02:45:03.761Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":9},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T02:45:43.775Z"}
+{"level":"debug","message":"req.session.passport.user:  9","timestamp":"2015-06-18T02:45:43.778Z"}
+{"email":"test9","password":"$2a$10$gldN2t3qbNXty7Gjbr7EO.ZrrB8Shmj5zayjk9VekqQYRZUopcIb.","name":"test","prof_img":"icon.png","join_date":"2015-06-18 11:45:43","user_id":9,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T02:45:43.778Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:46:40.032Z"}
+{"level":"debug","message":"Caught exception at stylist: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:46:40.033Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:46:40.034Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:46:40.034Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-18T02:46:40.034Z"}
+{"user_id":9,"email":"test9","stid":null,"name":"test","zipno":null,"ads_dong":null,"ads_detail":null,"age":0,"job":null,"phone":null,"level":"debug","mainly":null,"want":null,"worst":null,"shoes":null,"problem":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"join_date":"2015-06-18 11:45:43","prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-18T02:46:40.046Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$6IFiJND3FCpguiCSvNZX8O(29)","timestamp":"2015-06-18T02:46:40.365Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$6IFiJND3FCpguiCSvNZX8O1fe4b5fFSHGQm8qyHhneYMgtnS34eru(60)","timestamp":"2015-06-18T02:46:40.665Z"}
+{"email":"test10","password":"$2a$10$6IFiJND3FCpguiCSvNZX8O1fe4b5fFSHGQm8qyHhneYMgtnS34eru","name":"test","prof_img":"icon.png","join_date":"2015-06-18 11:46:40","user_id":10,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-18T02:46:40.713Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-18T02:46:40.713Z"}
+{"cookie":{"path":"/","_expires":"2015-06-19T02:45:43.780Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":10},"level":"debug","message":"req.session: ","timestamp":"2015-06-18T02:46:40.714Z"}
+{"level":"debug","message":"req.session.passport.user:  10","timestamp":"2015-06-18T02:46:40.714Z"}
+{"email":"test10","password":"$2a$10$6IFiJND3FCpguiCSvNZX8O1fe4b5fFSHGQm8qyHhneYMgtnS34eru","name":"test","prof_img":"icon.png","join_date":"2015-06-18 11:46:40","user_id":10,"level":"debug","message":"req.user: ","timestamp":"2015-06-18T02:46:40.714Z"}

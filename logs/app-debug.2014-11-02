@@ -1,0 +1,115 @@
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$SAT8ZSpepwCS01x0QzHk4u(29)","timestamp":"2014-11-01T15:34:26.410Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$SAT8ZSpepwCS01x0QzHk4umlRLw0bMWWSeULLXfjpEP7Zb0k.HQ2y(60)","timestamp":"2014-11-01T15:34:26.713Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$K/lKEDPESEcB4u5E.0AUfO(29)","timestamp":"2014-11-02T07:24:23.562Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$K/lKEDPESEcB4u5E.0AUfOAJkyuzSjFsbKbZ61./LAU3Io9aQ8E2q(60)","timestamp":"2014-11-02T07:24:23.860Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$guRYapT4MR2uFh2Siwjh/.(29)","timestamp":"2014-11-02T07:25:21.442Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$guRYapT4MR2uFh2Siwjh/.hYEhHHTY6CR7pwrqnhRStxdKi2QGJ7q(60)","timestamp":"2014-11-02T07:25:21.743Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$7I5eFUc.1aidlxqxgqwrke(29)","timestamp":"2014-11-02T08:13:56.098Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$7I5eFUc.1aidlxqxgqwrkekUZdFvOdG2igckVlPzgCooc/GcSksRa(60)","timestamp":"2014-11-02T08:13:56.385Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$8rt8n/TtiDc2YKOaOLTP0.(29)","timestamp":"2014-11-02T08:14:06.697Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$8rt8n/TtiDc2YKOaOLTP0.juvOBa850WajZn5rwwr.9BHlos10.uq(60)","timestamp":"2014-11-02T08:14:07.138Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$LXkKS5mfkDeZ3cdSWTUP6.(29)","timestamp":"2014-11-02T08:14:45.839Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$LXkKS5mfkDeZ3cdSWTUP6.sJc6h2ff47yEhJg7rnhRM.inLdjcst6(60)","timestamp":"2014-11-02T08:14:46.170Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$KeUz1gIvs9bK61GoaYdtre(29)","timestamp":"2014-11-02T08:15:36.911Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$KeUz1gIvs9bK61GoaYdtrePiLA4.uPPDxu/vwcqUnv2aFtNy/o9t2(60)","timestamp":"2014-11-02T08:15:37.229Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$bUHCLSM8gj3kDwofwzN7ve(29)","timestamp":"2014-11-02T08:15:47.359Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$bUHCLSM8gj3kDwofwzN7ve0yOOkPaVSy9nlgedsSBP5bRfZM4047.(60)","timestamp":"2014-11-02T08:15:47.686Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2014-11-02T08:17:18.384Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$P7asX8SYyAZT9YmSMR4Vau(29)","timestamp":"2014-11-02T08:17:35.586Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$P7asX8SYyAZT9YmSMR4Vau.yey0ae8jH3lptTuJN9eE63FgVlI6Xi(60)","timestamp":"2014-11-02T08:17:35.914Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$EsBmBwEQOs6VqAgCaocJ5O(29)","timestamp":"2014-11-02T08:17:47.678Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$EsBmBwEQOs6VqAgCaocJ5Op8uijWbv7gdi7fim6EL8jC7FkMb/Edy(60)","timestamp":"2014-11-02T08:17:48.091Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2014-11-02T08:17:52.761Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$O.4XZheIjGs9z3mf6Zgrmu(29)","timestamp":"2014-11-02T08:18:11.229Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$O.4XZheIjGs9z3mf6ZgrmuNoqaNYoW3DIwHsX2S/D1IJf5/BeUw1a(60)","timestamp":"2014-11-02T08:18:11.601Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$s6RARGnm3Gm7RBVHf6yjH.(29)","timestamp":"2014-11-02T08:18:22.898Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$s6RARGnm3Gm7RBVHf6yjH.j9YjEJyH3Yzh0f5Wz9.Qf/JnkjVK/YK(60)","timestamp":"2014-11-02T08:18:23.223Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$7ohl/FEuEoda3aFiZ4GR4O(29)","timestamp":"2014-11-02T08:24:20.538Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$7ohl/FEuEoda3aFiZ4GR4O2hXubZbYTG66nG7en7RnDqH6bhvzydO(60)","timestamp":"2014-11-02T08:24:20.835Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$VQgg40fHyU3LeIXA4psPMu(29)","timestamp":"2014-11-02T08:28:42.713Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$VQgg40fHyU3LeIXA4psPMu8aR2S0Va2sjTXbQYqmSlkliyKd/g58S(60)","timestamp":"2014-11-02T08:28:43.224Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$EjmoUe4u2TZPwu/4Uvlzlu(29)","timestamp":"2014-11-02T08:29:34.052Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$EjmoUe4u2TZPwu/4Uvlzlu0OcU5FkbWGVr922joYzZ2kNXF23UdNa(60)","timestamp":"2014-11-02T08:29:34.446Z"}
+{"login_id":"je","password":"$2a$10$EjmoUe4u2TZPwu/4Uvlzlu0OcU5FkbWGVr922joYzZ2kNXF23UdNa","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":4,"level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-02T08:29:34.774Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2014-11-02T08:29:34.774Z"}
+{"cookie":{"path":"/","_expires":"2014-11-03T08:28:43.474Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":4},"level":"debug","message":"req.session: ","timestamp":"2014-11-02T08:29:34.774Z"}
+{"level":"debug","message":"req.session.passport.user:  4","timestamp":"2014-11-02T08:29:34.774Z"}
+{"login_id":"je","password":"$2a$10$EjmoUe4u2TZPwu/4Uvlzlu0OcU5FkbWGVr922joYzZ2kNXF23UdNa","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":4,"level":"debug","message":"req.user: ","timestamp":"2014-11-02T08:29:34.774Z"}
+{"user_id":4,"login_id":"je","password":"$2a$10$EjmoUe4u2TZPwu/4Uvlzlu0OcU5FkbWGVr922j","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T08:33:54.457Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2014-11-02T08:33:55.077Z"}
+{"user_id":4,"login_id":"je","password":"$2a$10$EjmoUe4u2TZPwu/4Uvlzlu0OcU5FkbWGVr922j","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T08:34:33.478Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$ZyYcIz3v//aBQGwfK5REte(29)","timestamp":"2014-11-02T08:34:34.091Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$ZyYcIz3v//aBQGwfK5REte3x/4AmnJ7logtMI8yBScLgwEE4/U2Pi(60)","timestamp":"2014-11-02T08:34:34.435Z"}
+{"user_id":4,"login_id":"je","password":"$2a$10$EjmoUe4u2TZPwu/4Uvlzlu0OcU5FkbWGVr922j","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T08:35:57.340Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$DEMH7qGf94Q6ttCe.9gHR.(29)","timestamp":"2014-11-02T08:35:57.957Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$DEMH7qGf94Q6ttCe.9gHR.JsGGoewSZhJAo8lhpspLuXx8.qjtqo.(60)","timestamp":"2014-11-02T08:35:58.266Z"}
+{"login_id":"jjj","password":"$2a$10$DEMH7qGf94Q6ttCe.9gHR.JsGGoewSZhJAo8lhpspLuXx8.qjtqo.","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":8,"level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-02T08:35:58.470Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2014-11-02T08:35:58.478Z"}
+{"cookie":{"path":"/","_expires":"2014-11-03T08:35:19.662Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":8},"level":"debug","message":"req.session: ","timestamp":"2014-11-02T08:35:58.479Z"}
+{"level":"debug","message":"req.session.passport.user:  8","timestamp":"2014-11-02T08:35:58.479Z"}
+{"login_id":"jjj","password":"$2a$10$DEMH7qGf94Q6ttCe.9gHR.JsGGoewSZhJAo8lhpspLuXx8.qjtqo.","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":8,"level":"debug","message":"req.user: ","timestamp":"2014-11-02T08:35:58.479Z"}
+{"user_id":8,"login_id":"jjj","password":"$2a$10$DEMH7qGf94Q6ttCe.9gHR.JsGGoewSZhJAo8lh","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T08:38:45.382Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$jn6d9kbW4IYDvs3.gpjipu(29)","timestamp":"2014-11-02T08:38:46.176Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$jn6d9kbW4IYDvs3.gpjipuoHd0Sk8jmxL7rgMMdxzUL7lmN./2tSa(60)","timestamp":"2014-11-02T08:38:46.457Z"}
+{"login_id":"jjjj","password":"$2a$10$jn6d9kbW4IYDvs3.gpjipuoHd0Sk8jmxL7rgMMdxzUL7lmN./2tSa","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":9,"level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-02T08:38:46.704Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2014-11-02T08:38:46.720Z"}
+{"cookie":{"path":"/","_expires":"2014-11-03T08:35:58.479Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":9},"level":"debug","message":"req.session: ","timestamp":"2014-11-02T08:38:46.720Z"}
+{"level":"debug","message":"req.session.passport.user:  9","timestamp":"2014-11-02T08:38:46.720Z"}
+{"login_id":"jjjj","password":"$2a$10$jn6d9kbW4IYDvs3.gpjipuoHd0Sk8jmxL7rgMMdxzUL7lmN./2tSa","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":9,"level":"debug","message":"req.user: ","timestamp":"2014-11-02T08:38:46.720Z"}
+{"user_id":9,"login_id":"jjjj","password":"$2a$10$jn6d9kbW4IYDvs3.gpjipuoHd0Sk8jmxL7rgMM","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T08:39:08.896Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$Obm/0xr9GDF.SaKMNPK8ve(29)","timestamp":"2014-11-02T08:39:09.348Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$Obm/0xr9GDF.SaKMNPK8vetdwl0a2veJopLiUj9VpWhZc0giJQqvC(60)","timestamp":"2014-11-02T08:39:09.707Z"}
+{"login_id":"jjjjj","password":"$2a$10$Obm/0xr9GDF.SaKMNPK8vetdwl0a2veJopLiUj9VpWhZc0giJQqvC","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":10,"level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-02T08:39:09.957Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2014-11-02T08:39:09.964Z"}
+{"cookie":{"path":"/","_expires":"2014-11-03T08:38:46.720Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":10},"level":"debug","message":"req.session: ","timestamp":"2014-11-02T08:39:09.964Z"}
+{"level":"debug","message":"req.session.passport.user:  10","timestamp":"2014-11-02T08:39:09.965Z"}
+{"login_id":"jjjjj","password":"$2a$10$Obm/0xr9GDF.SaKMNPK8vetdwl0a2veJopLiUj9VpWhZc0giJQqvC","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":10,"level":"debug","message":"req.user: ","timestamp":"2014-11-02T08:39:09.965Z"}
+{"user_id":10,"login_id":"jjjjj","password":"$2a$10$Obm/0xr9GDF.SaKMNPK8vetdwl0a2veJopLiUj","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:18:30.537Z"}
+{"user_id":10,"login_id":"jjjjj","password":"$2a$10$Obm/0xr9GDF.SaKMNPK8vetdwl0a2veJopLiUj","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:31:06.377Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$CxuqRM.pEipjDTXePn0vxu(29)","timestamp":"2014-11-02T12:31:07.154Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m9UF8wdCfYEJzVv6(60)","timestamp":"2014-11-02T12:31:07.451Z"}
+{"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m9UF8wdCfYEJzVv6","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":11,"level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-02T12:31:07.706Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2014-11-02T12:31:07.706Z"}
+{"cookie":{"path":"/","_expires":"2014-11-03T12:18:31.684Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":11},"level":"debug","message":"req.session: ","timestamp":"2014-11-02T12:31:07.706Z"}
+{"level":"debug","message":"req.session.passport.user:  11","timestamp":"2014-11-02T12:31:07.706Z"}
+{"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m9UF8wdCfYEJzVv6","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":11,"level":"debug","message":"req.user: ","timestamp":"2014-11-02T12:31:07.706Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:33:22.474Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:37:32.431Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:38:02.640Z"}
+{"cookie":{"path":"/","_expires":"2014-11-03T12:37:32.443Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":11},"level":"debug","message":"req.session: ","timestamp":"2014-11-02T12:38:02.652Z"}
+{"level":"debug","message":"req.session.passport.user:  11","timestamp":"2014-11-02T12:38:02.652Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","level":"debug","message":"req.user: ","timestamp":"2014-11-02T12:38:02.652Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:38:56.821Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:39:27.646Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:51:56.928Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:53:15.667Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:54:16.031Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:55:46.710Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T12:56:28.422Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:23:32.028Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:23:54.767Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:26:38.708Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:27:15.704Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:27:58.588Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:28:42.138Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:28:58.715Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:29:20.685Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:29:44.003Z"}
+{"user_id":11,"login_id":"j1","password":"$2a$10$CxuqRM.pEipjDTXePn0vxuoKcXa8r1wcMlCC/m","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T13:29:52.068Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$0PmCdqQCTTC/wwSG/X0yMe(29)","timestamp":"2014-11-02T14:32:14.998Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$0PmCdqQCTTC/wwSG/X0yMe7KnDWLKlUqZIDT17y.ob8WZwlN0N3o.(60)","timestamp":"2014-11-02T14:32:15.336Z"}
+{"login_id":"j2","password":"$2a$10$0PmCdqQCTTC/wwSG/X0yMe7KnDWLKlUqZIDT17y.ob8WZwlN0N3o.","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":2,"level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-02T14:32:15.604Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2014-11-02T14:32:15.604Z"}
+{"cookie":{"path":"/","_expires":"2014-11-03T14:32:13.750Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2014-11-02T14:32:15.604Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2014-11-02T14:32:15.604Z"}
+{"login_id":"j2","password":"$2a$10$0PmCdqQCTTC/wwSG/X0yMe7KnDWLKlUqZIDT17y.ob8WZwlN0N3o.","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":2,"level":"debug","message":"req.user: ","timestamp":"2014-11-02T14:32:15.619Z"}
+{"user_id":2,"login_id":"j2","password":"$2a$10$0PmCdqQCTTC/wwSG/X0yMe7KnDWLKlUqZIDT17","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T14:32:38.548Z"}
+{"level":"debug","message":"req.user: ","timestamp":"2014-11-02T14:32:38.556Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$aCxh/za3DLaJ7CTe.yLreO(29)","timestamp":"2014-11-02T14:33:42.760Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$aCxh/za3DLaJ7CTe.yLreOMcQzg3i99/F9RwK1rZ6MFqgvaQaB8s2(60)","timestamp":"2014-11-02T14:33:43.309Z"}
+{"login_id":"j3","password":"$2a$10$aCxh/za3DLaJ7CTe.yLreOMcQzg3i99/F9RwK1rZ6MFqgvaQaB8s2","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":3,"level":"debug","message":"passport.serializeUser()","timestamp":"2014-11-02T14:33:43.575Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2014-11-02T14:33:43.575Z"}
+{"cookie":{"path":"/","_expires":"2014-11-03T14:32:38.556Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":3},"level":"debug","message":"req.session: ","timestamp":"2014-11-02T14:33:43.575Z"}
+{"level":"debug","message":"req.session.passport.user:  3","timestamp":"2014-11-02T14:33:43.575Z"}
+{"login_id":"j3","password":"$2a$10$aCxh/za3DLaJ7CTe.yLreOMcQzg3i99/F9RwK1rZ6MFqgvaQaB8s2","name":"je","email":"jaajaj","phone":"11213","addr":"bu","user_id":3,"level":"debug","message":"req.user: ","timestamp":"2014-11-02T14:33:43.575Z"}
+{"user_id":3,"login_id":"j3","password":"$2a$10$aCxh/za3DLaJ7CTe.yLreOMcQzg3i99/F9RwK1","name":"je","stid":1,"level":"debug","message":"passport.deserializeUser()","timestamp":"2014-11-02T14:33:58.736Z"}

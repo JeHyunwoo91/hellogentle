@@ -1,0 +1,200 @@
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:49:16.493Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:49:16.496Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:49:16.496Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:49:16.496Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:49:16.496Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:49:16.496Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:51:51.967Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:51:51.980Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:51:51.980Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:51:51.982Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:51:51.982Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:51:51.982Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:53:32.416Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:53:32.419Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:53:32.419Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:53:32.419Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-01-30T15:56:34.374Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-01-30T15:56:34.375Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-01-30T15:56:34.375Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-01-30T15:56:34.375Z"}
+{"level":"debug","message":"Caught exception at story: listen EADDRINUSE","timestamp":"2015-01-30T15:56:34.375Z"}
+{"level":"debug","message":"Caught exception at reply: listen EADDRINUSE","timestamp":"2015-01-30T15:56:34.375Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:56:46.950Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:56:46.953Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:56:46.953Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:56:46.953Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:56:46.953Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T15:56:46.953Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-01-30T16:00:00.461Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-01-30T16:00:00.462Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-01-30T16:00:00.462Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-01-30T16:00:00.462Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'user_id' of undefined","timestamp":"2015-01-30T16:00:00.462Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'user_id' of undefined","timestamp":"2015-01-30T16:00:00.462Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2([object Object])","timestamp":"2015-01-30T16:00:21.202Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.serializeUser()","timestamp":"2015-01-30T16:00:21.209Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-01-30T16:00:21.210Z"}
+{"cookie":{"path":"/","_expires":"2015-01-31T16:00:20.268Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":3},"level":"debug","message":"req.session: ","timestamp":"2015-01-30T16:00:21.210Z"}
+{"level":"debug","message":"req.session.passport.user:  3","timestamp":"2015-01-30T16:00:21.210Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"req.user: ","timestamp":"2015-01-30T16:00:21.210Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:00:30.740Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:01:43.728Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:01:43.876Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:01:43.880Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:01:43.881Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:01:43.881Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:01:43.881Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:01:43.881Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:03:09.128Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:09.278Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:09.278Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:09.281Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:09.282Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:09.282Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:09.282Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:03:15.592Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:15.755Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:15.756Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:15.756Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:15.756Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:15.756Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:03:15.756Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:05:20.009Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:05:20.009Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:05:20.009Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:05:20.009Z"}
+{"level":"debug","message":"Caught exception at story: listen EADDRINUSE","timestamp":"2015-01-30T16:05:20.009Z"}
+{"level":"debug","message":"Caught exception at reply: listen EADDRINUSE","timestamp":"2015-01-30T16:05:20.009Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:05:31.223Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:31.394Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:31.394Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:31.394Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:31.394Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:31.394Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:31.394Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:05:56.995Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:57.149Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:57.149Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:57.149Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:57.149Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:57.149Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:05:57.149Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:06:55.800Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:06:55.975Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:06:55.975Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:06:55.975Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:06:55.975Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:06:55.975Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:06:55.975Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:07:24.390Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:07:24.545Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:07:24.545Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:07:24.545Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:07:24.545Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:07:24.545Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:07:24.545Z"}
+{"user_id":3,"email":"admin","password":"$2a$10$kOy0xlDr9CuCXt7PHrfmfufBBCWoAij7AyjNqr7KKzPFLc.aXIVT2","name":"admin","phone":"010-1234-5678","weight":"79","height":"180","waist":32,"footsize":275,"prof_img":"a64600e6a15272615bd1b5bcf175fffa.JPG","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:09:26.078Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$LbIkQXSRmvx11Jg/nChvZ.(29)","timestamp":"2015-01-30T16:09:26.383Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K(60)","timestamp":"2015-01-30T16:09:26.727Z"}
+{"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","join_date":"2015-01-31 01:09:26","user_id":4,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-01-30T16:09:26.820Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-01-30T16:09:26.820Z"}
+{"cookie":{"path":"/","_expires":"2015-01-31T16:00:30.897Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":4},"level":"debug","message":"req.session: ","timestamp":"2015-01-30T16:09:26.820Z"}
+{"level":"debug","message":"req.session.passport.user:  4","timestamp":"2015-01-30T16:09:26.820Z"}
+{"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","join_date":"2015-01-31 01:09:26","user_id":4,"level":"debug","message":"req.user: ","timestamp":"2015-01-30T16:09:26.820Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:09:33.367Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-01-30T16:09:33.504Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-01-30T16:09:33.504Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:09:55.853Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:09:56.038Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:09:56.038Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:09:56.038Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:09:56.038Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:09:56.038Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:09:56.038Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:13:05.560Z"}
+{"level":"error","message":"purchase_date is not defined","timestamp":"2015-01-30T16:13:05.576Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:14:06.093Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:14:06.095Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:14:06.095Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:14:06.095Z"}
+{"level":"debug","message":"Caught exception at story: listen EADDRINUSE","timestamp":"2015-01-30T16:14:06.095Z"}
+{"level":"debug","message":"Caught exception at reply: listen EADDRINUSE","timestamp":"2015-01-30T16:14:06.095Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:14:20.223Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:14:20.396Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:14:20.396Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:14:20.396Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:14:20.396Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:14:20.396Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:14:20.396Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND","timestamp":"2015-01-30T16:19:22.173Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:22:38.158Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:22:38.367Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:22:38.367Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:22:38.367Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:22:38.367Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:22:38.367Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'length' of undefined","timestamp":"2015-01-30T16:22:38.367Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:23:00.296Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:23:42.381Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:23:42.381Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:23:42.381Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-01-30T16:23:42.381Z"}
+{"level":"debug","message":"Caught exception at story: listen EADDRINUSE","timestamp":"2015-01-30T16:23:42.381Z"}
+{"level":"debug","message":"Caught exception at reply: listen EADDRINUSE","timestamp":"2015-01-30T16:23:42.381Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:24:03.820Z"}
+{"level":"debug","message":"Caught exception at user: ReferenceError: purchase_date is not defined","timestamp":"2015-01-30T16:24:04.162Z"}
+{"level":"debug","message":"Caught exception at md: ReferenceError: purchase_date is not defined","timestamp":"2015-01-30T16:24:04.177Z"}
+{"level":"debug","message":"Caught exception at mycloset: ReferenceError: purchase_date is not defined","timestamp":"2015-01-30T16:24:04.177Z"}
+{"level":"debug","message":"Caught exception at images: ReferenceError: purchase_date is not defined","timestamp":"2015-01-30T16:24:04.177Z"}
+{"level":"debug","message":"Caught exception at story: purchase_date is not defined","timestamp":"2015-01-30T16:24:04.177Z"}
+{"level":"debug","message":"Caught exception at reply: purchase_date is not defined","timestamp":"2015-01-30T16:24:04.177Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:28:38.309Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:36:15.184Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:36:21.185Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:36:27.573Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:53:46.068Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:55:09.433Z"}
+{"level":"debug","message":"imagepath: 7c0ad068740f07d6f35ccf32aad216e3.jpg","timestamp":"2015-01-30T16:55:09.439Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\profile\\7c0ad068740f07d6f35ccf32aad216e3.jpg","timestamp":"2015-01-30T16:55:09.439Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:55:09.906Z"}
+{"level":"debug","message":"imagepath: 7c0ad068740f07d6f35ccf32aad216e3.jpg","timestamp":"2015-01-30T16:55:09.921Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\profile\\7c0ad068740f07d6f35ccf32aad216e3.jpg","timestamp":"2015-01-30T16:55:09.921Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:56:43.062Z"}
+{"level":"debug","message":"imagepath: sesame_pattern_shirts.jpg","timestamp":"2015-01-30T16:56:43.067Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\products\\sesame_pattern_shirts.jpg","timestamp":"2015-01-30T16:56:43.067Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:56:43.530Z"}
+{"level":"debug","message":"imagepath: sesame_pattern_shirts.jpg","timestamp":"2015-01-30T16:56:43.530Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\products\\sesame_pattern_shirts.jpg","timestamp":"2015-01-30T16:56:43.530Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:56:53.749Z"}
+{"level":"debug","message":"imagepath: sesame_pattern_shirts.jpg","timestamp":"2015-01-30T16:56:53.762Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\products\\sesame_pattern_shirts.jpg","timestamp":"2015-01-30T16:56:53.763Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:56:54.229Z"}
+{"level":"debug","message":"imagepath: sesame_pattern_shirts.jpg","timestamp":"2015-01-30T16:56:54.229Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\products\\sesame_pattern_shirts.jpg","timestamp":"2015-01-30T16:56:54.229Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:57:11.358Z"}
+{"level":"debug","message":"imagepath: simple_jeans.jpg","timestamp":"2015-01-30T16:57:11.369Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\products\\simple_jeans.jpg","timestamp":"2015-01-30T16:57:11.369Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:57:11.878Z"}
+{"level":"debug","message":"imagepath: simple_jeans.jpg","timestamp":"2015-01-30T16:57:11.878Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\products\\simple_jeans.jpg","timestamp":"2015-01-30T16:57:11.878Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:58:37.292Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:58:46.800Z"}
+{"level":"debug","message":"imagepath: 10606253_775371212559714_2644756094405832975_n.jpg","timestamp":"2015-01-30T16:58:46.812Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\md\\10606253_775371212559714_2644756094405832975_n.jpg","timestamp":"2015-01-30T16:58:46.812Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T16:58:47.321Z"}
+{"level":"debug","message":"imagepath: 10606253_775371212559714_2644756094405832975_n.jpg","timestamp":"2015-01-30T16:58:47.321Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\md\\10606253_775371212559714_2644756094405832975_n.jpg","timestamp":"2015-01-30T16:58:47.321Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T17:02:08.339Z"}
+{"level":"debug","message":"Caught exception at user: ReferenceError: result2 is not defined","timestamp":"2015-01-30T17:02:08.489Z"}
+{"level":"debug","message":"Caught exception at md: ReferenceError: result2 is not defined","timestamp":"2015-01-30T17:02:08.489Z"}
+{"level":"debug","message":"Caught exception at mycloset: ReferenceError: result2 is not defined","timestamp":"2015-01-30T17:02:08.490Z"}
+{"level":"debug","message":"Caught exception at images: ReferenceError: result2 is not defined","timestamp":"2015-01-30T17:02:08.490Z"}
+{"level":"debug","message":"Caught exception at story: result2 is not defined","timestamp":"2015-01-30T17:02:08.490Z"}
+{"level":"debug","message":"Caught exception at reply: result2 is not defined","timestamp":"2015-01-30T17:02:08.490Z"}
+{"level":"debug","message":"Caught exception at user: SyntaxError: Unexpected token }","timestamp":"2015-01-30T17:02:55.711Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T17:03:10.119Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T17:05:26.373Z"}
+{"user_id":4,"email":"test4","password":"$2a$10$LbIkQXSRmvx11Jg/nChvZ.tTIQPiQE1l8goKpbXH/FvWwO2A9Vh6K","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-30T17:05:27.100Z"}
+{"level":"debug","message":"imagepath: md.jpg","timestamp":"2015-01-30T17:05:27.100Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1_1\\images\\md\\md.jpg","timestamp":"2015-01-30T17:05:27.100Z"}

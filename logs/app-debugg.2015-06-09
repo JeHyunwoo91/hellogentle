@@ -1,0 +1,57 @@
+{"level":"error","message":"Not Found","timestamp":"2015-06-09T07:07:19.161Z"}
+{"level":"error","message":"요청정보가 변경되지 않았습니다.","timestamp":"2015-06-09T07:07:39.288Z"}
+{"level":"error","message":"요청정보가 변경되지 않았습니다.","timestamp":"2015-06-09T07:09:53.930Z"}
+{"level":"debug","message":"info : budget","timestamp":"2015-06-09T07:11:52.837Z"}
+{"level":"error","message":"요청정보가 변경되지 않았습니다.","timestamp":"2015-06-09T07:11:52.896Z"}
+{"level":"debug","message":"info : budget","timestamp":"2015-06-09T07:12:20.329Z"}
+{"level":"debug","message":"info : budget","timestamp":"2015-06-09T07:12:41.119Z"}
+{"level":"debug","message":"info : color","timestamp":"2015-06-09T07:14:55.885Z"}
+{"level":"debug","message":"info : want","timestamp":"2015-06-09T07:14:59.217Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-09T07:22:30.094Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-09T07:22:30.097Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-09T07:22:30.098Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-06-09T07:22:30.098Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'user_id' of undefined","timestamp":"2015-06-09T07:22:30.098Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'user_id' of undefined","timestamp":"2015-06-09T07:22:30.098Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6([object Object])","timestamp":"2015-06-09T07:22:48.491Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","name":"test","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-09T07:22:48.492Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-06-09T07:22:48.492Z"}
+{"cookie":{"path":"/","_expires":"2015-06-10T07:14:59.269Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":19},"level":"debug","message":"req.session: ","timestamp":"2015-06-09T07:22:48.493Z"}
+{"level":"debug","message":"req.session.passport.user:  19","timestamp":"2015-06-09T07:22:48.493Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","name":"test","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","level":"debug","message":"req.user: ","timestamp":"2015-06-09T07:22:48.493Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T07:22:53.586Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T07:24:30.717Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T07:26:18.370Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T08:11:59.718Z"}
+{"level":"error","message":"죄송합니다. 잠시 후에 다시 시도해주세요.","timestamp":"2015-06-09T08:12:00.089Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T08:13:05.434Z"}
+{"level":"debug","message":"pdid : 1","timestamp":"2015-06-09T08:13:05.620Z"}
+{"level":"debug","message":"pdid : 3","timestamp":"2015-06-09T08:13:05.620Z"}
+{"level":"debug","message":"pdid : 5","timestamp":"2015-06-09T08:13:05.621Z"}
+{"level":"debug","message":"pdid : 7","timestamp":"2015-06-09T08:13:05.621Z"}
+{"level":"error","message":"죄송합니다. 잠시 후에 다시 시도해주세요.","timestamp":"2015-06-09T08:13:05.922Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T08:13:31.504Z"}
+{"level":"debug","message":"pdid : 1/1","timestamp":"2015-06-09T08:13:31.595Z"}
+{"level":"debug","message":"pdid : 3/1","timestamp":"2015-06-09T08:13:31.596Z"}
+{"level":"debug","message":"pdid : 5/1","timestamp":"2015-06-09T08:13:31.596Z"}
+{"level":"debug","message":"pdid : 7/1","timestamp":"2015-06-09T08:13:31.596Z"}
+{"level":"error","message":"죄송합니다. 잠시 후에 다시 시도해주세요.","timestamp":"2015-06-09T08:13:31.860Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T08:17:19.916Z"}
+{"level":"debug","message":"pdid : 1/function () {\n            if (called) throw new Error(\"Callback was already called.\");\n            called = true;\n            fn.apply(root, arguments);\n        }","timestamp":"2015-06-09T08:17:20.009Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Object function () {\n            if (called) throw new Error(\"Callback was already called.\");\n            called = true;\n            fn.apply(root, arguments);\n        } has no method 'replace'","timestamp":"2015-06-09T08:17:20.012Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Object function () {\n            if (called) throw new Error(\"Callback was already called.\");\n            called = true;\n            fn.apply(root, arguments);\n        } has no method 'replace'","timestamp":"2015-06-09T08:17:20.012Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Object function () {\n            if (called) throw new Error(\"Callback was already called.\");\n            called = true;\n            fn.apply(root, arguments);\n        } has no method 'replace'","timestamp":"2015-06-09T08:17:20.012Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Object function () {\n            if (called) throw new Error(\"Callback was already called.\");\n            called = true;\n            fn.apply(root, arguments);\n        } has no method 'replace'","timestamp":"2015-06-09T08:17:20.012Z"}
+{"level":"debug","message":"Caught exception at story: Object function () {\n            if (called) throw new Error(\"Callback was already called.\");\n            called = true;\n            fn.apply(root, arguments);\n        } has no method 'replace'","timestamp":"2015-06-09T08:17:20.012Z"}
+{"level":"debug","message":"Caught exception at reply: Object function () {\n            if (called) throw new Error(\"Callback was already called.\");\n            called = true;\n            fn.apply(root, arguments);\n        } has no method 'replace'","timestamp":"2015-06-09T08:17:20.012Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T08:17:44.784Z"}
+{"level":"debug","message":"pdid : 1/1","timestamp":"2015-06-09T08:17:44.888Z"}
+{"level":"debug","message":"pdid : 3/1","timestamp":"2015-06-09T08:17:44.889Z"}
+{"level":"debug","message":"pdid : 5/1","timestamp":"2015-06-09T08:17:44.890Z"}
+{"level":"debug","message":"pdid : 7/1","timestamp":"2015-06-09T08:17:44.890Z"}
+{"level":"error","message":"죄송합니다. 잠시 후에 다시 시도해주세요.","timestamp":"2015-06-09T08:17:45.120Z"}
+{"user_id":19,"email":"test","password":"$2a$10$TUJNO4OLXqf8P8YoK3gAkuM2ka9xzXhst5LCaUybbWB2lLLWZIKH6","stid":1,"name":"test","level":"debug","prof_img":"f938381c0ab0f46442fde9967334eca1.PNG","message":"passport.deserializeUser()","timestamp":"2015-06-09T08:19:40.740Z"}
+{"level":"debug","message":"pdid : 1/1","timestamp":"2015-06-09T08:19:40.867Z"}
+{"level":"debug","message":"pdid : 3/1","timestamp":"2015-06-09T08:19:40.868Z"}
+{"level":"debug","message":"pdid : 5/1","timestamp":"2015-06-09T08:19:40.868Z"}
+{"level":"debug","message":"pdid : 7/1","timestamp":"2015-06-09T08:19:40.868Z"}

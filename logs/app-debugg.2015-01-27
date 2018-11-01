@@ -1,0 +1,16 @@
+{"level":"debug","message":"imagepath: o1.png","timestamp":"2015-01-27T03:50:20.024Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\outfit\\o1.png","timestamp":"2015-01-27T03:50:20.027Z"}
+{"level":"debug","message":"imagepath: o1.png","timestamp":"2015-01-27T03:50:20.268Z"}
+{"level":"debug","message":"filepath: C:\\Develop\\Enide-Studio-2014.17-luna-SR1-win64-20141011\\Enide-Studio-2014.17-luna-SR1-win64\\ws\\hello_gentle_v_0_1\\images\\outfit\\o1.png","timestamp":"2015-01-27T03:50:20.268Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$9boJI97cY.lbDYGW6zgbEe(29)","timestamp":"2015-01-27T03:50:28.838Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$9boJI97cY.lbDYGW6zgbEeaI7bcEUWDQBj2mARWTLJDjVKOimypsC(60)","timestamp":"2015-01-27T03:50:29.165Z"}
+{"level":"debug","message":"local-signup errER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`hello_gentle`.`user`, CONSTRAINT `fk_user_stylist` FOREIGN KEY (`stid`) REFERENCES `stylist` (`stid`) ON DELETE NO ACTION ON UPDATE NO ACTION)","timestamp":"2015-01-27T03:50:29.243Z"}
+{"level":"error","message":"ER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`hello_gentle`.`user`, CONSTRAINT `fk_user_stylist` FOREIGN KEY (`stid`) REFERENCES `stylist` (`stid`) ON DELETE NO ACTION ON UPDATE NO ACTION)","timestamp":"2015-01-27T03:50:29.243Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$Nd0Z7bKOLE9bUNx0miSbgO(29)","timestamp":"2015-01-27T04:02:01.584Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$Nd0Z7bKOLE9bUNx0miSbgOzInsKvSmeshHC11GQFB.EeAKBAps9pS(60)","timestamp":"2015-01-27T04:02:01.895Z"}
+{"login_id":"test3","password":"$2a$10$Nd0Z7bKOLE9bUNx0miSbgOzInsKvSmeshHC11GQFB.EeAKBAps9pS","name":"test","email":"test","phone":"test","addr":"test","user_id":18,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-01-27T04:02:02.005Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-01-27T04:02:02.005Z"}
+{"cookie":{"path":"/","_expires":"2015-01-28T03:50:29.243Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":18},"level":"debug","message":"req.session: ","timestamp":"2015-01-27T04:02:02.005Z"}
+{"level":"debug","message":"req.session.passport.user:  18","timestamp":"2015-01-27T04:02:02.005Z"}
+{"login_id":"test3","password":"$2a$10$Nd0Z7bKOLE9bUNx0miSbgOzInsKvSmeshHC11GQFB.EeAKBAps9pS","name":"test","email":"test","phone":"test","addr":"test","user_id":18,"level":"debug","message":"req.user: ","timestamp":"2015-01-27T04:02:02.005Z"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'hello_gentle_v_0_1'","timestamp":"2015-01-27T04:34:22.108Z"}

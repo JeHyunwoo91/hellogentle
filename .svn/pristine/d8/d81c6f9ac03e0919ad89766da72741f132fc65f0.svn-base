@@ -1,0 +1,205 @@
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-05T02:15:59.582Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-05T02:15:59.587Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-05T02:17:50.271Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-05T02:17:50.275Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-05T02:36:44.244Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-05T02:36:44.247Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$70iRL7cgnNR6GhmFYjp4hO(29)","timestamp":"2015-06-05T03:30:33.181Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$70iRL7cgnNR6GhmFYjp4hOcB2rnMD7p.QssEBfhAXJQaAsfXMN5Wy(60)","timestamp":"2015-06-05T03:30:33.508Z"}
+{"email":"sest","password":"$2a$10$70iRL7cgnNR6GhmFYjp4hOcB2rnMD7p.QssEBfhAXJQaAsfXMN5Wy","name":"test","prof_img":"icon.png","join_date":"2015-06-05 21:30:33","user_id":925,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T03:30:33.649Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T03:30:33.649Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T03:30:32.870Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":925},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T03:30:33.650Z"}
+{"level":"debug","message":"req.session.passport.user:  925","timestamp":"2015-06-05T03:30:33.650Z"}
+{"email":"sest","password":"$2a$10$70iRL7cgnNR6GhmFYjp4hOcB2rnMD7p.QssEBfhAXJQaAsfXMN5Wy","name":"test","prof_img":"icon.png","join_date":"2015-06-05 21:30:33","user_id":925,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T03:30:33.650Z"}
+{"user_id":925,"email":"sest","password":"$2a$10$70iRL7cgnNR6GhmFYjp4hOcB2rnMD7p.QssEBfhAXJQaAsfXMN5Wy","stid":2,"name":"test","zipno":null,"adres_dong":null,"adres_detail":null,"age":null,"job":null,"level":"debug","work":null,"leisure":null,"date":null,"budget":null,"brand":null,"color":null,"worst":null,"shoes":null,"fit":null,"problem":null,"problem_etc":null,"phone":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-05T03:32:00.456Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$Nc6mGuT.O0UqNNHvYEWfmOLFh2LI4mvSMaunV4ZUveer2E4s2asuC([object Object])","timestamp":"2015-06-05T03:32:00.976Z"}
+{"user_id":2,"email":"admin","password":"$2a$10$Nc6mGuT.O0UqNNHvYEWfmOLFh2LI4mvSMaunV4ZUveer2E4s2asuC","name":"admin","prof_img":"2272dadefb403cc1531fefd85384ff9d.jpg","level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T03:32:00.977Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-06-05T03:32:00.977Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T03:30:33.652Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T03:32:00.977Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2015-06-05T03:32:00.977Z"}
+{"user_id":2,"email":"admin","password":"$2a$10$Nc6mGuT.O0UqNNHvYEWfmOLFh2LI4mvSMaunV4ZUveer2E4s2asuC","name":"admin","prof_img":"2272dadefb403cc1531fefd85384ff9d.jpg","level":"debug","message":"req.user: ","timestamp":"2015-06-05T03:32:00.977Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$/8Lt/yqry3Zx4./ql/OiD.(29)","timestamp":"2015-06-05T03:34:41.151Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$/8Lt/yqry3Zx4./ql/OiD.be4GhU8m9fqqRwurcEUHCIQzmhUVI0m(60)","timestamp":"2015-06-05T03:34:41.504Z"}
+{"email":"je2","password":"$2a$10$/8Lt/yqry3Zx4./ql/OiD.be4GhU8m9fqqRwurcEUHCIQzmhUVI0m","name":"test","prof_img":"icon.png","join_date":"2015-06-05 21:34:41","user_id":926,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T03:34:41.688Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T03:34:41.689Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T03:34:40.606Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":926},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T03:34:41.691Z"}
+{"level":"debug","message":"req.session.passport.user:  926","timestamp":"2015-06-05T03:34:41.691Z"}
+{"email":"je2","password":"$2a$10$/8Lt/yqry3Zx4./ql/OiD.be4GhU8m9fqqRwurcEUHCIQzmhUVI0m","name":"test","prof_img":"icon.png","join_date":"2015-06-05 21:34:41","user_id":926,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T03:34:41.691Z"}
+{"user_id":926,"email":"je2","password":"$2a$10$/8Lt/yqry3Zx4./ql/OiD.be4GhU8m9fqqRwurcEUHCIQzmhUVI0m","stid":1,"name":"test","zipno":null,"adres_dong":null,"adres_detail":null,"age":null,"job":null,"level":"debug","work":null,"leisure":null,"date":null,"budget":null,"brand":null,"color":null,"worst":null,"shoes":null,"fit":null,"problem":null,"problem_etc":null,"phone":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-05T03:35:40.976Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$nwY6ynKO3.gbqZY5IsvRfO(29)","timestamp":"2015-06-05T03:35:41.184Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$nwY6ynKO3.gbqZY5IsvRfOqIWi.jtGUQuOT38HdxMpwn8zov7LiaK(60)","timestamp":"2015-06-05T03:35:41.512Z"}
+{"email":"je3","password":"$2a$10$nwY6ynKO3.gbqZY5IsvRfOqIWi.jtGUQuOT38HdxMpwn8zov7LiaK","name":"test","prof_img":"icon.png","join_date":"2015-06-05 21:35:41","user_id":927,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T03:35:41.691Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T03:35:41.692Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T03:34:41.695Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":927},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T03:35:41.692Z"}
+{"level":"debug","message":"req.session.passport.user:  927","timestamp":"2015-06-05T03:35:41.693Z"}
+{"email":"je3","password":"$2a$10$nwY6ynKO3.gbqZY5IsvRfOqIWi.jtGUQuOT38HdxMpwn8zov7LiaK","name":"test","prof_img":"icon.png","join_date":"2015-06-05 21:35:41","user_id":927,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T03:35:41.693Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$D2h86Nczg3tp67KdoeENdu(29)","timestamp":"2015-06-05T05:04:32.871Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$D2h86Nczg3tp67KdoeENdurgRbYIlYnm0DtM3qlsLt1qWiz.cq16O(60)","timestamp":"2015-06-05T05:04:33.200Z"}
+{"email":"je1","password":"$2a$10$D2h86Nczg3tp67KdoeENdurgRbYIlYnm0DtM3qlsLt1qWiz.cq16O","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:04:33","user_id":1,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:04:33.305Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:04:33.306Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:04:32.635Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:04:33.307Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2015-06-05T05:04:33.307Z"}
+{"email":"je1","password":"$2a$10$D2h86Nczg3tp67KdoeENdurgRbYIlYnm0DtM3qlsLt1qWiz.cq16O","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:04:33","user_id":1,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:04:33.307Z"}
+{"user_id":1,"email":"je1","password":"$2a$10$D2h86Nczg3tp67KdoeENdurgRbYIlYnm0DtM3qlsLt1qWiz.cq16O","stid":2,"name":"test","zipno":null,"adres_dong":null,"adres_detail":null,"age":null,"job":null,"level":"debug","work":null,"leisure":null,"date":null,"budget":null,"brand":null,"color":null,"worst":null,"shoes":null,"fit":null,"problem":null,"problem_etc":null,"phone":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:05:21.763Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$D2h86Nczg3tp67KdoeENdurgRbYIlYnm0DtM3qlsLt1qWiz.cq16O([object Object])","timestamp":"2015-06-05T05:05:22.229Z"}
+{"user_id":1,"email":"je1","password":"$2a$10$D2h86Nczg3tp67KdoeENdurgRbYIlYnm0DtM3qlsLt1qWiz.cq16O","name":"test","prof_img":"icon.png","level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:05:22.229Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-06-05T05:05:22.230Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:04:33.308Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":1},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:05:22.230Z"}
+{"level":"debug","message":"req.session.passport.user:  1","timestamp":"2015-06-05T05:05:22.230Z"}
+{"user_id":1,"email":"je1","password":"$2a$10$D2h86Nczg3tp67KdoeENdurgRbYIlYnm0DtM3qlsLt1qWiz.cq16O","name":"test","prof_img":"icon.png","level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:05:22.230Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$YdxT87FMEFhPnUQ3zmo5kO(29)","timestamp":"2015-06-05T05:13:44.823Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$YdxT87FMEFhPnUQ3zmo5kOSApLb/tNhMM90opuHb/lVcYdS8t1JTC(60)","timestamp":"2015-06-05T05:13:45.353Z"}
+{"email":"je2","password":"$2a$10$YdxT87FMEFhPnUQ3zmo5kOSApLb/tNhMM90opuHb/lVcYdS8t1JTC","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:13:45","user_id":2,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:13:45.495Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:13:45.496Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:13:44.320Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:13:45.497Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2015-06-05T05:13:45.497Z"}
+{"email":"je2","password":"$2a$10$YdxT87FMEFhPnUQ3zmo5kOSApLb/tNhMM90opuHb/lVcYdS8t1JTC","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:13:45","user_id":2,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:13:45.497Z"}
+{"user_id":2,"email":"je2","password":"$2a$10$YdxT87FMEFhPnUQ3zmo5kOSApLb/tNhMM90opuHb/lVcYdS8t1JTC","stid":1,"name":"test","zipno":null,"adres_dong":null,"adres_detail":null,"age":null,"job":null,"level":"debug","work":null,"leisure":null,"date":null,"budget":null,"brand":null,"color":null,"worst":null,"shoes":null,"fit":null,"problem":null,"problem_etc":null,"phone":null,"weight":null,"height":null,"top":null,"waist":null,"footsize":null,"prof_img":"icon.png","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:16:14.151Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$6CekpRcZJj.pVUjvLMvrMO(29)","timestamp":"2015-06-05T05:16:14.241Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$6CekpRcZJj.pVUjvLMvrMOjnccI4E8KTVKi.LU2KW4yMIqP9rhJ3S(60)","timestamp":"2015-06-05T05:16:14.585Z"}
+{"email":"je3","password":"$2a$10$6CekpRcZJj.pVUjvLMvrMOjnccI4E8KTVKi.LU2KW4yMIqP9rhJ3S","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:16:14","user_id":3,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:16:14.680Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:16:14.681Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:13:45.499Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":3},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:16:14.681Z"}
+{"level":"debug","message":"req.session.passport.user:  3","timestamp":"2015-06-05T05:16:14.681Z"}
+{"email":"je3","password":"$2a$10$6CekpRcZJj.pVUjvLMvrMOjnccI4E8KTVKi.LU2KW4yMIqP9rhJ3S","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:16:14","user_id":3,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:16:14.681Z"}
+{"level":"debug","message":"Caught exception at user: ReferenceError: next is not defined","timestamp":"2015-06-05T05:37:19.469Z"}
+{"level":"debug","message":"Caught exception at md: ReferenceError: next is not defined","timestamp":"2015-06-05T05:37:19.472Z"}
+{"level":"debug","message":"Caught exception at mycloset: ReferenceError: next is not defined","timestamp":"2015-06-05T05:37:19.473Z"}
+{"level":"debug","message":"Caught exception at images: ReferenceError: next is not defined","timestamp":"2015-06-05T05:37:19.473Z"}
+{"level":"debug","message":"Caught exception at story: next is not defined","timestamp":"2015-06-05T05:37:19.473Z"}
+{"level":"debug","message":"Caught exception at reply: next is not defined","timestamp":"2015-06-05T05:37:19.473Z"}
+{"level":"error","message":"회원 정보 불러오기에 실패하였습니다.","timestamp":"2015-06-05T05:38:02.896Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:02.905Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:02.905Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:02.905Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:02.905Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:02.905Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:02.905Z"}
+{"level":"debug","message":"Caught exception at user: Error: listen EADDRINUSE","timestamp":"2015-06-05T05:38:46.498Z"}
+{"level":"debug","message":"Caught exception at md: Error: listen EADDRINUSE","timestamp":"2015-06-05T05:38:46.499Z"}
+{"level":"debug","message":"Caught exception at mycloset: Error: listen EADDRINUSE","timestamp":"2015-06-05T05:38:46.499Z"}
+{"level":"debug","message":"Caught exception at images: Error: listen EADDRINUSE","timestamp":"2015-06-05T05:38:46.500Z"}
+{"level":"debug","message":"Caught exception at story: listen EADDRINUSE","timestamp":"2015-06-05T05:38:46.500Z"}
+{"level":"debug","message":"Caught exception at reply: listen EADDRINUSE","timestamp":"2015-06-05T05:38:46.500Z"}
+{"level":"error","message":"회원 정보 불러오기에 실패하였습니다.","timestamp":"2015-06-05T05:38:47.331Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:47.333Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:47.333Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:47.334Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:47.334Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:47.334Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property '0' of undefined","timestamp":"2015-06-05T05:38:47.334Z"}
+{"level":"error","message":"회원 정보 불러오기에 실패하였습니다.","timestamp":"2015-06-05T05:39:45.984Z"}
+{"level":"debug","message":"Caught exception at user: ReferenceError: next is not defined","timestamp":"2015-06-05T05:41:46.957Z"}
+{"level":"debug","message":"Caught exception at md: ReferenceError: next is not defined","timestamp":"2015-06-05T05:41:46.959Z"}
+{"level":"debug","message":"Caught exception at mycloset: ReferenceError: next is not defined","timestamp":"2015-06-05T05:41:46.959Z"}
+{"level":"debug","message":"Caught exception at images: ReferenceError: next is not defined","timestamp":"2015-06-05T05:41:46.960Z"}
+{"level":"debug","message":"Caught exception at story: next is not defined","timestamp":"2015-06-05T05:41:46.960Z"}
+{"level":"debug","message":"Caught exception at reply: next is not defined","timestamp":"2015-06-05T05:41:46.960Z"}
+{"level":"debug","message":"user_id: [object Object]","timestamp":"2015-06-05T05:44:15.964Z"}
+{"level":"debug","message":"Caught exception at user: ReferenceError: next is not defined","timestamp":"2015-06-05T05:44:15.972Z"}
+{"level":"debug","message":"Caught exception at md: ReferenceError: next is not defined","timestamp":"2015-06-05T05:44:15.973Z"}
+{"level":"debug","message":"Caught exception at mycloset: ReferenceError: next is not defined","timestamp":"2015-06-05T05:44:15.973Z"}
+{"level":"debug","message":"Caught exception at images: ReferenceError: next is not defined","timestamp":"2015-06-05T05:44:15.973Z"}
+{"level":"debug","message":"Caught exception at story: next is not defined","timestamp":"2015-06-05T05:44:15.974Z"}
+{"level":"debug","message":"Caught exception at reply: next is not defined","timestamp":"2015-06-05T05:44:15.974Z"}
+{"level":"debug","message":"user_id: [object Object]","timestamp":"2015-06-05T05:44:45.494Z"}
+{"level":"error","message":"회원 정보 불러오기에 실패하였습니다.","timestamp":"2015-06-05T05:44:45.499Z"}
+{"user_id":1,"email":"je","password":"$2a$10$kxHbXa3l8sUgu5wKWNBuAeMJaDpa7C14f6iJKGbsCCf.yrmMsoMmO","stid":null,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:45:01.861Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$6bzPfNr1bUh9M9xUcLPkNu(29)","timestamp":"2015-06-05T05:45:02.204Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$6bzPfNr1bUh9M9xUcLPkNuajTG45xG1QsW4569gmwY3LjHUNCgYay(60)","timestamp":"2015-06-05T05:45:02.503Z"}
+{"email":"je10","password":"$2a$10$6bzPfNr1bUh9M9xUcLPkNuajTG45xG1QsW4569gmwY3LjHUNCgYay","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:45:02","user_id":8,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:45:02.618Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:45:02.618Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:44:45.503Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":8},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:45:02.619Z"}
+{"level":"debug","message":"req.session.passport.user:  8","timestamp":"2015-06-05T05:45:02.619Z"}
+{"email":"je10","password":"$2a$10$6bzPfNr1bUh9M9xUcLPkNuajTG45xG1QsW4569gmwY3LjHUNCgYay","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:45:02","user_id":8,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:45:02.620Z"}
+{"user_id":2,"email":"je1","password":"$2a$10$1v5CKbzW1OaFKjgzZAC73e/s9a9dutnEr3p/BOWC6d0dV0mxgcpOa","stid":null,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:46:00.655Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$lo64pkZ4JMs3H/QYvIQGpO(29)","timestamp":"2015-06-05T05:46:00.945Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$lo64pkZ4JMs3H/QYvIQGpOSihtBkRelr2eFz.r69HNwWH..deNC/u(60)","timestamp":"2015-06-05T05:46:01.241Z"}
+{"level":"debug","message":"local-signup errER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`hello_gentle_v_2_0`.`user`, CONSTRAINT `fk_user_stylist` FOREIGN KEY (`stid`) REFERENCES `stylist` (`stid`) ON DELETE NO ACTION ON UPDATE NO ACTION)","timestamp":"2015-06-05T05:46:01.362Z"}
+{"level":"error","message":"ER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`hello_gentle_v_2_0`.`user`, CONSTRAINT `fk_user_stylist` FOREIGN KEY (`stid`) REFERENCES `stylist` (`stid`) ON DELETE NO ACTION ON UPDATE NO ACTION)","timestamp":"2015-06-05T05:46:01.363Z"}
+{"user_id":8,"email":"je10","password":"$2a$10$6bzPfNr1bUh9M9xUcLPkNuajTG45xG1QsW4569gmwY3LjHUNCgYay","stid":1,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:46:37.376Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-05T05:46:37.490Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-05T05:46:37.492Z"}
+{"user_id":8,"email":"je10","password":"$2a$10$6bzPfNr1bUh9M9xUcLPkNuajTG45xG1QsW4569gmwY3LjHUNCgYay","stid":1,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:46:41.590Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$BcnDK2E6U74IAhWw6GTk5u(29)","timestamp":"2015-06-05T05:46:41.833Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$BcnDK2E6U74IAhWw6GTk5u2AMInebKhGZh4oyTmZl57TlK4/a1mWm(60)","timestamp":"2015-06-05T05:46:42.131Z"}
+{"email":"je12","password":"$2a$10$BcnDK2E6U74IAhWw6GTk5u2AMInebKhGZh4oyTmZl57TlK4/a1mWm","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:46:42","user_id":10,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:46:42.227Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:46:42.227Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:46:37.497Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":10},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:46:42.228Z"}
+{"level":"debug","message":"req.session.passport.user:  10","timestamp":"2015-06-05T05:46:42.228Z"}
+{"email":"je12","password":"$2a$10$BcnDK2E6U74IAhWw6GTk5u2AMInebKhGZh4oyTmZl57TlK4/a1mWm","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:46:42","user_id":10,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:46:42.228Z"}
+{"user_id":10,"email":"je12","password":"$2a$10$BcnDK2E6U74IAhWw6GTk5u2AMInebKhGZh4oyTmZl57TlK4/a1mWm","stid":1,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:47:25.134Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$2GBtH/ixYBuSdAySiHLW7O(29)","timestamp":"2015-06-05T05:47:25.402Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$2GBtH/ixYBuSdAySiHLW7ONf3zW7zojWXqyI2tuCOTDJx1xKHu2sS(60)","timestamp":"2015-06-05T05:47:25.706Z"}
+{"level":"debug","message":"local-signup errER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`hello_gentle_v_2_0`.`user`, CONSTRAINT `fk_user_stylist` FOREIGN KEY (`stid`) REFERENCES `stylist` (`stid`) ON DELETE NO ACTION ON UPDATE NO ACTION)","timestamp":"2015-06-05T05:47:25.808Z"}
+{"level":"error","message":"ER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`hello_gentle_v_2_0`.`user`, CONSTRAINT `fk_user_stylist` FOREIGN KEY (`stid`) REFERENCES `stylist` (`stid`) ON DELETE NO ACTION ON UPDATE NO ACTION)","timestamp":"2015-06-05T05:47:25.809Z"}
+{"user_id":10,"email":"je12","password":"$2a$10$BcnDK2E6U74IAhWw6GTk5u2AMInebKhGZh4oyTmZl57TlK4/a1mWm","stid":1,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:47:38.432Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-05T05:47:38.527Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-05T05:47:38.530Z"}
+{"user_id":10,"email":"je12","password":"$2a$10$BcnDK2E6U74IAhWw6GTk5u2AMInebKhGZh4oyTmZl57TlK4/a1mWm","stid":1,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:47:42.308Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$Tppe6CRyXR/ar3UavxPLW.(29)","timestamp":"2015-06-05T05:47:42.531Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$Tppe6CRyXR/ar3UavxPLW.lCf6BPtQMZqfciGRFYoJyWN/v1aZ6YS(60)","timestamp":"2015-06-05T05:47:42.832Z"}
+{"email":"je14","password":"$2a$10$Tppe6CRyXR/ar3UavxPLW.lCf6BPtQMZqfciGRFYoJyWN/v1aZ6YS","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:47:42","user_id":12,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:47:42.927Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:47:42.928Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:47:38.533Z","originalMaxAge":86399999,"httpOnly":true},"passport":{"user":12},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:47:42.928Z"}
+{"level":"debug","message":"req.session.passport.user:  12","timestamp":"2015-06-05T05:47:42.928Z"}
+{"email":"je14","password":"$2a$10$Tppe6CRyXR/ar3UavxPLW.lCf6BPtQMZqfciGRFYoJyWN/v1aZ6YS","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:47:42","user_id":12,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:47:42.929Z"}
+{"user_id":12,"email":"je14","password":"$2a$10$Tppe6CRyXR/ar3UavxPLW.lCf6BPtQMZqfciGRFYoJyWN/v1aZ6YS","stid":1,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:47:48.313Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$5ZrPNLV0GZgKhb/nAdG9AO(29)","timestamp":"2015-06-05T05:47:48.401Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$5ZrPNLV0GZgKhb/nAdG9AORs9lSzDqEAyRgTfQ5YG7VDA5e9sCj/m(60)","timestamp":"2015-06-05T05:47:48.693Z"}
+{"level":"debug","message":"local-signup errER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`hello_gentle_v_2_0`.`user`, CONSTRAINT `fk_user_stylist` FOREIGN KEY (`stid`) REFERENCES `stylist` (`stid`) ON DELETE NO ACTION ON UPDATE NO ACTION)","timestamp":"2015-06-05T05:47:48.793Z"}
+{"level":"error","message":"ER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`hello_gentle_v_2_0`.`user`, CONSTRAINT `fk_user_stylist` FOREIGN KEY (`stid`) REFERENCES `stylist` (`stid`) ON DELETE NO ACTION ON UPDATE NO ACTION)","timestamp":"2015-06-05T05:47:48.793Z"}
+{"user_id":12,"email":"je14","password":"$2a$10$Tppe6CRyXR/ar3UavxPLW.lCf6BPtQMZqfciGRFYoJyWN/v1aZ6YS","stid":1,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:48:47.530Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$ADAoClqyHLpLseDNUy4gPO(29)","timestamp":"2015-06-05T05:48:47.819Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$ADAoClqyHLpLseDNUy4gPO4WWe8NNxtaIJXITLCyH5yJv16A1Kls6(60)","timestamp":"2015-06-05T05:48:48.126Z"}
+{"level":"debug","message":"Caught exception at user: ReferenceError: tempstylist is not defined","timestamp":"2015-06-05T05:48:48.128Z"}
+{"level":"debug","message":"Caught exception at md: ReferenceError: tempstylist is not defined","timestamp":"2015-06-05T05:48:48.128Z"}
+{"level":"debug","message":"Caught exception at mycloset: ReferenceError: tempstylist is not defined","timestamp":"2015-06-05T05:48:48.128Z"}
+{"level":"debug","message":"Caught exception at images: ReferenceError: tempstylist is not defined","timestamp":"2015-06-05T05:48:48.128Z"}
+{"level":"debug","message":"Caught exception at story: tempstylist is not defined","timestamp":"2015-06-05T05:48:48.128Z"}
+{"level":"debug","message":"Caught exception at reply: tempstylist is not defined","timestamp":"2015-06-05T05:48:48.128Z"}
+{"user_id":12,"email":"je14","password":"$2a$10$Tppe6CRyXR/ar3UavxPLW.lCf6BPtQMZqfciGRFYoJyWN/v1aZ6YS","stid":1,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:49:20.632Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$AfgtVcY7z7BIPUyFHXSR/.(29)","timestamp":"2015-06-05T05:49:20.896Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$AfgtVcY7z7BIPUyFHXSR/.NYdziDrRv6PhHjUUp8yC1yXBUbo3vCW(60)","timestamp":"2015-06-05T05:49:21.198Z"}
+{"email":"je16","password":"$2a$10$AfgtVcY7z7BIPUyFHXSR/.NYdziDrRv6PhHjUUp8yC1yXBUbo3vCW","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:49:21","user_id":14,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:49:21.250Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:49:21.251Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:47:48.792Z","originalMaxAge":86399999,"httpOnly":true},"passport":{"user":14},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:49:21.251Z"}
+{"level":"debug","message":"req.session.passport.user:  14","timestamp":"2015-06-05T05:49:21.251Z"}
+{"email":"je16","password":"$2a$10$AfgtVcY7z7BIPUyFHXSR/.NYdziDrRv6PhHjUUp8yC1yXBUbo3vCW","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:49:21","user_id":14,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:49:21.252Z"}
+{"user_id":14,"email":"je16","password":"$2a$10$AfgtVcY7z7BIPUyFHXSR/.NYdziDrRv6PhHjUUp8yC1yXBUbo3vCW","stid":null,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:49:25.003Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$yWoKMZOyma2sP5rQepwaXe(29)","timestamp":"2015-06-05T05:49:25.094Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$yWoKMZOyma2sP5rQepwaXePKizDE5v1A3mDD598SV89lUXWPRKWHC(60)","timestamp":"2015-06-05T05:49:25.447Z"}
+{"email":"je17","password":"$2a$10$yWoKMZOyma2sP5rQepwaXePKizDE5v1A3mDD598SV89lUXWPRKWHC","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:49:25","user_id":15,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:49:25.496Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:49:25.496Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:49:21.252Z","originalMaxAge":86399999,"httpOnly":true},"passport":{"user":15},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:49:25.496Z"}
+{"level":"debug","message":"req.session.passport.user:  15","timestamp":"2015-06-05T05:49:25.496Z"}
+{"email":"je17","password":"$2a$10$yWoKMZOyma2sP5rQepwaXePKizDE5v1A3mDD598SV89lUXWPRKWHC","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:49:25","user_id":15,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:49:25.496Z"}
+{"user_id":15,"email":"je17","password":"$2a$10$yWoKMZOyma2sP5rQepwaXePKizDE5v1A3mDD598SV89lUXWPRKWHC","stid":null,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:49:28.979Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$dLHkSTPnaWyJlTqgPmzRIu(29)","timestamp":"2015-06-05T05:49:29.067Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$dLHkSTPnaWyJlTqgPmzRIuIMvseutTvRwONG2z1JtDLXRQigPkl.K(60)","timestamp":"2015-06-05T05:49:29.359Z"}
+{"email":"je18","password":"$2a$10$dLHkSTPnaWyJlTqgPmzRIuIMvseutTvRwONG2z1JtDLXRQigPkl.K","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:49:29","user_id":16,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:49:29.409Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:49:29.410Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:49:25.496Z","originalMaxAge":86399999,"httpOnly":true},"passport":{"user":16},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:49:29.410Z"}
+{"level":"debug","message":"req.session.passport.user:  16","timestamp":"2015-06-05T05:49:29.410Z"}
+{"email":"je18","password":"$2a$10$dLHkSTPnaWyJlTqgPmzRIuIMvseutTvRwONG2z1JtDLXRQigPkl.K","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:49:29","user_id":16,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:49:29.411Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND","timestamp":"2015-06-05T05:55:15.762Z"}
+{"level":"error","message":"connect ETIMEDOUT","timestamp":"2015-06-05T05:55:37.479Z"}
+{"user_id":16,"email":"je18","password":"$2a$10$dLHkSTPnaWyJlTqgPmzRIuIMvseutTvRwONG2z1JtDLXRQigPkl.K","stid":null,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:56:13.790Z"}
+{"level":"debug","message":"not signed up... ","timestamp":"2015-06-05T05:56:13.886Z"}
+{"level":"error","message":"해당 Email은 이미 존재합니다. 다른 Email을 입력해주세요.","timestamp":"2015-06-05T05:56:13.887Z"}
+{"user_id":16,"email":"je18","password":"$2a$10$dLHkSTPnaWyJlTqgPmzRIuIMvseutTvRwONG2z1JtDLXRQigPkl.K","stid":null,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T05:56:19.214Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$QxHdGCGbTnJIEs.3SCWokO(29)","timestamp":"2015-06-05T05:56:19.300Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$QxHdGCGbTnJIEs.3SCWokOdCMZDs3zBh0XiHdztRbEZzNe63/3icq(60)","timestamp":"2015-06-05T05:56:19.674Z"}
+{"email":"je19","password":"$2a$10$QxHdGCGbTnJIEs.3SCWokOdCMZDs3zBh0XiHdztRbEZzNe63/3icq","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:56:19","user_id":17,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T05:56:19.722Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T05:56:19.724Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:56:13.886Z","originalMaxAge":86399999,"httpOnly":true},"passport":{"user":17},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T05:56:19.724Z"}
+{"level":"debug","message":"req.session.passport.user:  17","timestamp":"2015-06-05T05:56:19.724Z"}
+{"email":"je19","password":"$2a$10$QxHdGCGbTnJIEs.3SCWokOdCMZDs3zBh0XiHdztRbEZzNe63/3icq","name":"test","prof_img":"icon.png","join_date":"2015-06-05 23:56:19","user_id":17,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T05:56:19.724Z"}
+{"user_id":17,"email":"je19","password":"$2a$10$QxHdGCGbTnJIEs.3SCWokOdCMZDs3zBh0XiHdztRbEZzNe63/3icq","stid":null,"name":"test","prof_img":"icon.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-06-05T06:23:07.396Z"}
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$zzluMmHqtUBqDqDJ3U6idO(29)","timestamp":"2015-06-05T06:23:07.831Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$zzluMmHqtUBqDqDJ3U6idOEO0EqkRnFBZ81dq6l5z9vJ/G0CoTk2.(60)","timestamp":"2015-06-05T06:23:08.135Z"}
+{"email":"je20","password":"$2a$10$zzluMmHqtUBqDqDJ3U6idOEO0EqkRnFBZ81dq6l5z9vJ/G0CoTk2.","name":"test","prof_img":"icon.png","join_date":"2015-06-05 15:23:08","user_id":18,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-06-05T06:23:08.191Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-06-05T06:23:08.191Z"}
+{"cookie":{"path":"/","_expires":"2015-06-06T05:56:19.724Z","originalMaxAge":86399999,"httpOnly":true},"passport":{"user":18},"level":"debug","message":"req.session: ","timestamp":"2015-06-05T06:23:08.191Z"}
+{"level":"debug","message":"req.session.passport.user:  18","timestamp":"2015-06-05T06:23:08.192Z"}
+{"email":"je20","password":"$2a$10$zzluMmHqtUBqDqDJ3U6idOEO0EqkRnFBZ81dq6l5z9vJ/G0CoTk2.","name":"test","prof_img":"icon.png","join_date":"2015-06-05 15:23:08","user_id":18,"level":"debug","message":"req.user: ","timestamp":"2015-06-05T06:23:08.192Z"}

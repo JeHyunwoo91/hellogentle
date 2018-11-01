@@ -1,0 +1,33 @@
+{"level":"debug","message":"bcrypt.genSalt() ====> $2a$10$RAmn/Hyzm1hp9IDpPgqVCu(29)","timestamp":"2015-01-28T02:51:46.390Z"}
+{"level":"debug","message":"bcrypt.hash() ====> $2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2(60)","timestamp":"2015-01-28T02:51:46.686Z"}
+{"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","join_date":"2015-01-28 11:51:46","user_id":2,"level":"debug","message":"passport.serializeUser()","timestamp":"2015-01-28T02:51:46.748Z"}
+{"level":"debug","message":"signed up... ","timestamp":"2015-01-28T02:51:46.748Z"}
+{"cookie":{"path":"/","_expires":"2015-01-28T04:37:48.443Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2015-01-28T02:51:46.748Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2015-01-28T02:51:46.764Z"}
+{"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","join_date":"2015-01-28 11:51:46","user_id":2,"level":"debug","message":"req.user: ","timestamp":"2015-01-28T02:51:46.764Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-28T02:54:10.858Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-28T03:01:32.903Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-28T03:05:42.843Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2([object Object])","timestamp":"2015-01-28T03:05:43.267Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","prof_img":"default_img.png","level":"debug","message":"passport.serializeUser()","timestamp":"2015-01-28T03:05:43.267Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-01-28T03:05:43.267Z"}
+{"cookie":{"path":"/","_expires":"2015-01-29T03:01:32.908Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2015-01-28T03:05:43.267Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2015-01-28T03:05:43.267Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","prof_img":"default_img.png","level":"debug","message":"req.user: ","timestamp":"2015-01-28T03:05:43.267Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-28T03:05:57.859Z"}
+{"level":"debug","message":"10606253_775371212559714_2644756094405832975_n.jpg->a598f83cd233493c2703dd29ee67341a.jpg","timestamp":"2015-01-28T14:53:33.336Z"}
+{"level":"debug","message":"Caught exception at user: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-01-28T14:53:33.345Z"}
+{"level":"debug","message":"Caught exception at md: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-01-28T14:53:33.347Z"}
+{"level":"debug","message":"Caught exception at mycloset: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-01-28T14:53:33.347Z"}
+{"level":"debug","message":"Caught exception at images: TypeError: Cannot read property 'user_id' of undefined","timestamp":"2015-01-28T14:53:33.347Z"}
+{"level":"debug","message":"Caught exception at story: Cannot read property 'user_id' of undefined","timestamp":"2015-01-28T14:53:33.347Z"}
+{"level":"debug","message":"Caught exception at reply: Cannot read property 'user_id' of undefined","timestamp":"2015-01-28T14:53:33.347Z"}
+{"level":"debug","message":"bcrypt.compare() ====> $2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2([object Object])","timestamp":"2015-01-28T14:54:52.833Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","prof_img":"default_img.png","level":"debug","message":"passport.serializeUser()","timestamp":"2015-01-28T14:54:52.845Z"}
+{"level":"debug","message":"logged in... ","timestamp":"2015-01-28T14:54:52.845Z"}
+{"cookie":{"path":"/","_expires":"2015-01-29T03:05:57.871Z","originalMaxAge":86400000,"httpOnly":true},"passport":{"user":2},"level":"debug","message":"req.session: ","timestamp":"2015-01-28T14:54:52.845Z"}
+{"level":"debug","message":"req.session.passport.user:  2","timestamp":"2015-01-28T14:54:52.845Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","prof_img":"default_img.png","level":"debug","message":"req.user: ","timestamp":"2015-01-28T14:54:52.845Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","phone":null,"weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-28T14:54:58.623Z"}
+{"user_id":2,"email":"test3","password":"$2a$10$RAmn/Hyzm1hp9IDpPgqVCubIyl5/8.iHNcaUv5FXzzOH78x2mJUW2","name":"test","phone":"010-1234-5678","weight":null,"height":null,"waist":null,"footsize":null,"prof_img":"default_img.png","level":"debug","message":"passport.deserializeUser()","timestamp":"2015-01-28T14:55:22.171Z"}
+{"level":"debug","message":"10606253_775371212559714_2644756094405832975_n.jpg->7c0ad068740f07d6f35ccf32aad216e3.jpg","timestamp":"2015-01-28T14:55:22.302Z"}
